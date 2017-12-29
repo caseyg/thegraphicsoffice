@@ -28,8 +28,3 @@ This second publication for the Lower East Side Tenement Museum marked the debut
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/a-tenement-story/">← </a><a href="http://thegraphicsoffice.com/portfolio/typographic-tastemakers/">→</a>
-
-

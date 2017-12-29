@@ -27,8 +27,3 @@ author:
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/the-once-and-future-pennsylvania-station/">←</a> <a href="http://thegraphicsoffice.com/portfolio/long-remembered-ap-lincoln/">→</a>
-
-

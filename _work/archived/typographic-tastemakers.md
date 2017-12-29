@@ -28,8 +28,3 @@ This landmark study of the largest American type foundry of the 19th century rep
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/what-might-have-been/">← </a><a href="http://thegraphicsoffice.com/portfolio/jean-michel-frank-in-argentina/">→</a>
-
-

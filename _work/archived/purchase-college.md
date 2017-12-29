@@ -27,8 +27,3 @@ Part of the SUNY system, Purchase College offers a quality, affordable arts educ
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/the-new-york-historical-society/">← </a><a href="http://thegraphicsoffice.com/portfolio/the-tenement-museum/">→</a>
-
-

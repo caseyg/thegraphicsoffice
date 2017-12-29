@@ -28,8 +28,3 @@ Th<span style="font-family: Georgia,Times New Roman;">e Associated Press regular
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/shelleys-ghost-print-and-digital/">← </a><a href="http://thegraphicsoffice.com/portfolio/bellwether-gallery/">→</a>
-
-

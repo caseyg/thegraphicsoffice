@@ -27,8 +27,3 @@ Tanyth Berkeley’s photographs isolate faces from a stream of passersby through
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/mary-colter-architect-of-the-southwest/">← </a><a href="http://thegraphicsoffice.com/portfolio/a-tenement-story/">→</a>
-
-

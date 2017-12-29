@@ -30,8 +30,3 @@ Gallery BAC's handsome storefront in Soho, New York, exudes good taste and owner
 
 
 <img class="alignleft size-large wp-image-1175" alt="" src="{{ site.baseurl }}/assets/BAChomepage4-740x590.jpg" width="740" height="590" /><img class="alignleft size-large wp-image-1165" alt="" src="{{ site.baseurl }}/assets/BACrecents-740x570.jpg" width="740" height="570" /><img class="alignleft size-large wp-image-1176" alt="" src="{{ site.baseurl }}/assets/BACart-740x610.jpg" width="740" height="610" /><img class="alignleft size-large wp-image-1174" alt="" src="{{ site.baseurl }}/assets/BACsconce-740x522.jpg" width="740" height="522" />
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/transit-center/">→</a>
-
-

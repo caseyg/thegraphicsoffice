@@ -28,8 +28,3 @@ This catalog marked an exhibition of the French furniture designer’s Argentine
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/typographic-tastemakers/">← </a><a href="http://thegraphicsoffice.com/portfolio/the-handy-book-of-artistic-printing/">→</a>
-
-

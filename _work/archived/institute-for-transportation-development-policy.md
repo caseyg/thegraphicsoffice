@@ -27,8 +27,3 @@ How can people move around in the world without destroying it in the process? Th
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/general-contractors-association-of-new-york/">← </a><a href="http://thegraphicsoffice.com/portfolio/the-new-york-historical-society/">→</a>
-
-

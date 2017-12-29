@@ -27,8 +27,3 @@ Few New Yorkers realize the city is in the midst of some of the largest undergro
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/nyhs-lincoln/">←</a> <a href="http://thegraphicsoffice.com/portfolio/alvin-lustig-american-modernist/">→</a>
-
-

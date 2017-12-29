@@ -27,8 +27,3 @@ We helped the N-YHS create and develop a public programs brochure for its season
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/institute-for-transportation-development-policy/">← </a><a href="http://thegraphicsoffice.com/portfolio/purchase-college/">→</a>
-
-

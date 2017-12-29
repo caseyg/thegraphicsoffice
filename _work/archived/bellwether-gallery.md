@@ -27,11 +27,3 @@ When Bellwether moved from Williamsburg, Brooklyn to Chelsea, gallery owner Beck
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/long-remembered-the-associated-press-with-lincoln-print/">← </a><a href="http://thegraphicsoffice.com/portfolio/general-contractors-association-of-new-york/">→</a>
-
-
-&nbsp;
-
-

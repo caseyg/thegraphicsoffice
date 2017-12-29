@@ -31,8 +31,3 @@ We stumbled upon samples of this elaborate style of 19th-century print design an
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/jean-michel-frank-in-argentina/">← </a><a href="http://thegraphicsoffice.com/portfolio/book-jackets/">→</a>
-
-

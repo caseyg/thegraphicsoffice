@@ -27,8 +27,3 @@ We drew on our knowledge of 19th-century typography to design a new logo for the
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/the-tenement-museum/">← </a><a href="http://thegraphicsoffice.com/portfolio/the-future-beneath-us-print/">→</a>
-
-

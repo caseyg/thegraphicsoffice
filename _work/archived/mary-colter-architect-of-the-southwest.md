@@ -28,8 +28,3 @@ Mary Colter designed park buildings and hotels in the American Southwest in a co
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/book-jackets/">← </a><a href="http://thegraphicsoffice.com/portfolio/tanyth-berkeley-the-frequency/">→</a>
-
-

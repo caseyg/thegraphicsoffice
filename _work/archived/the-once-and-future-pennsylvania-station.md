@@ -27,8 +27,3 @@ This exhibition, organized by the New York Transit Museum in 2011, described the
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/alvin-lustig-american-modernist/">←</a> <a href="http://thegraphicsoffice.com/portfolio/shelleys-ghost-the-after-life-of-a-poet/">→</a>
-
-

@@ -27,8 +27,3 @@ TypeHigh is a line of greeting cards and ephemera we developed that mixed 19th-c
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/didi/">← </a><a href="http://thegraphicsoffice.com/portfolio/bowne-co-stationers/">→</a>
-
-

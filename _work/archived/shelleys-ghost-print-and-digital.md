@@ -27,8 +27,3 @@ This exhibition of the Romantic poet Percy Bysshe Shelley brought together mater
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/the-future-beneath-us-print/">← </a><a href="http://thegraphicsoffice.com/portfolio/long-remembered-the-associated-press-with-lincoln-print/">→</a>
-
-

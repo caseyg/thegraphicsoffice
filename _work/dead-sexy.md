@@ -27,8 +27,3 @@ Angela realized keeping a clipping file of long-dead attractive guys was a bit u
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/bowne-co-stationers/">← </a><a href="http://thegraphicsoffice.com/portfolio/didi/">→</a>
-
-

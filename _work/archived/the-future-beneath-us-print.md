@@ -27,8 +27,3 @@ This New York Transit Museum exhibition, installed in two parts at the Science, 
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/the-victorian-society-new-york/">← </a><a href="http://thegraphicsoffice.com/portfolio/shelleys-ghost-print-and-digital/">→</a>
-
-

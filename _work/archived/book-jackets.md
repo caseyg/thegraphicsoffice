@@ -28,8 +28,3 @@ We still like them: commercial, scholarly, what have you.
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/the-handy-book-of-artistic-printing/">← </a><a href="http://thegraphicsoffice.com/portfolio/mary-colter-architect-of-the-southwest/">→</a>
-
-

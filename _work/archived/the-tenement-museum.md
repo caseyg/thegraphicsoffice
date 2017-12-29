@@ -27,8 +27,3 @@ We created a variety of fundraising materials, themed gala invitations and retai
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/purchase-college/">← </a><a href="http://thegraphicsoffice.com/portfolio/the-victorian-society-new-york/">→</a>
-
-

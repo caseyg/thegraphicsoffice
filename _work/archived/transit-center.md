@@ -30,8 +30,3 @@ For the temporary revision of the website, we created a slideshow on the homepag
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/gallery-bac-website/">← </a>
-
-

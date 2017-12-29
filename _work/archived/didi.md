@@ -27,8 +27,3 @@ We’re not sporty, but we helped a good friend design a line of shirts and prin
 
 
 [imagelist]
-
-
-<p style="text-align: right;"><a href="http://thegraphicsoffice.com/portfolio/dead-sexy/">← </a><a href="http://thegraphicsoffice.com/portfolio/typehigh/">→</a>
-
-
