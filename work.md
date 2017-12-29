@@ -1,5 +1,4 @@
 ---
-Title: Work
+title: Work
 layout: work
-published: true
 ---
