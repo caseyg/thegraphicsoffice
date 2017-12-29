@@ -1,29 +1,10 @@
 ---
-
 title: 'Tanyth Berkeley: The Frequency'
 date: 2012-10-16 11:50:00.000000000 -04:00
-
-
 published: true
-
-
-categories: []
-tags: []
-meta:
-  _edit_last: '6'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _thumbnail_id: '877'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
+roles:
+  - Book Design
 ---
-<h1>TANYTH BERKELEY: THE FREQUENCY</h1>
-<h3>BOOK DESIGN</h3>
 Tanyth Berkeley’s photographs isolate faces from a stream of passersby through Times Square; the reflective cover captures the random reader. Published in a limited edition for a solo exhibition at Bellwether Gallery, Chelsea. (See our <a href=" http://thegraphicsoffice.com/portfolio/bellwether-gallery">other work</a> for Bellwether.)
-
 
 [imagelist]

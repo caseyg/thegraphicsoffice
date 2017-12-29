@@ -1,29 +1,12 @@
 ---
-
 title: Dead Sexy
 date: 2012-10-16 13:15:57.000000000 -04:00
-
-
 published: true
-
-
-categories: []
-tags: []
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '891'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
+roles:
+  - Graphic Design
+  - Writing
+  - Image Research
 ---
-<h1>DEAD SEXY</h1>
-<h3>GRAPHIC DESIGN | WRITING | IMAGE RESEARCH</h3>
 Angela realized keeping a clipping file of long-dead attractive guys was a bit unusual. She explored this pastime first in a blog post and then a book proposal, which she wrote and designed. It got a lot of good attention but a similar idea already out there had just been accepted. Timing is everything, even with dead people. See more sexy dead men <a href="http://mydeaddate.tumblr.com/" target="_blank">on the Tumblr</a>.
-
 
 [imagelist]

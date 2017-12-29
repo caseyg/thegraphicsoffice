@@ -1,25 +1,7 @@
 ---
-
 title: Flora Illustrata
 date: 2015-03-05 16:12:14.000000000 -05:00
-
-
 published: true
-
-
-categories: []
-tags: []
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '1364'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adcSTUDIO admin
-  email: admin@adcstudio.com
-  display_name: admin adcSTUDIO
-  first_name: admin
-  last_name: adcSTUDIO
 ---
 <h1 class="p1">Flora Illustrata</h1>
 <h3 class="p2">EXHIBITION DESIGN | GRAPHIC DESIGN |</h3>
@@ -42,5 +24,3 @@ author:
 
 
 <p class="p2"><img class="alignnone size-large wp-image-1402" src="{{ site.baseurl }}/assets/FLORA_IVO0887-SM-740x436.jpg" alt="FLORA_IVO0887-SM" width="740" height="436" />
-
-
