@@ -1,3 +1,14 @@
+.active {
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
 .aspect-ratio {
     height: 0;
     position: relative;

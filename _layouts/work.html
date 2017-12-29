@@ -2,21 +2,38 @@
 layout: default
 ---
 
+<section id="selected-projects">
+  <h2>Selected Projects</h2>
+  <section class="cf w-100 pa2-ns">
+    {% for work in site.work %}
+    {% if work.url contains "/archived" %}
+    {% else %}
+        <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
+          <a href="{{ work.url }}" class="ph2 ph0-ns pb3 link db">
+            <div class="aspect-ratio aspect-ratio--1x1">
+              <img style="background-image:url();"
+              class="db bg-center cover aspect-ratio--object" />
+            </div>
+            <h3 class="f5 f4-ns mb0 black-90">{{ work.title }}</h3>
+          </a>
+        </article>
+    {% endif %}
+    {% endfor %}
+  </section>
+</section>
+
 <h2 class="serif">{{ content }}</h2>
 
-<section class="cf w-100 pa2-ns">
-  {% for work in site.work %}
-  {% if work.url contains "/archived" %}
-  {% else %}
-      <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
-        <a href="{{ work.url }}" class="ph2 ph0-ns pb3 link db">
-          <div class="aspect-ratio aspect-ratio--1x1">
-            <img style="background-image:url();"
-            class="db bg-center cover aspect-ratio--object" />
-          </div>
-          <h3 class="f5 f4-ns mb0 black-90">{{ work.title }}</h3>
-        </a>
-      </article>
-  {% endif %}
-  {% endfor %}
+<hr>
+
+<a href="/projects/archived">See all projects &rarr;</a>
+
+<hr>
+
+<section id="browse">
+  <h2>Browse Projects by...</h2>
+</section>
+
+<section id="casestudies">
+
 </section>
