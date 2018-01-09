@@ -1,20 +1,153 @@
 ---
 layout: default
 ---
-<h2 class="serif">{{ content }}</h2>
 
-<section id="/casestudies">
-<h2><a href="">Case Studies &rarr;</a></h2>
+<h1 class="serif f2 lh-title fw1">{{ content }}</h1>
+<small><a href="/about">Read more about TGO →</a></small>
+
+<section id="casestudies" class="my-4">
+  <h2><a href="">Case Studies &rarr;</a></h2>
 </section>
 
-<section id="work">
-<h2><a href="/work">Our Work &rarr;</a></h2>
+</div>
+<div class="container-fluid">
+  <div class="carousel-container row">
+    <div class="carousel-nav col-md-3">
+      <div class="carousel-cell is-nav-selected">01. Finding Moments</div>
+      <div class="carousel-cell">02. Diving Deep</div>
+      <div class="carousel-cell">03. Creative Transformation</div>
+    </div>
+
+    <div class="carousel carousel-main col-md-9">
+      <div class="carousel-cell"><img src="http://placehold.it/1000x600" alt=""></div>
+      <div class="carousel-cell"><img src="http://placehold.it/1000x600" alt=""></div>
+      <div class="carousel-cell"><img src="http://placehold.it/1000x600" alt=""></div>
+    </div>
+  </div>
+</div>
+<div class="container">
+<section id="work" class="my-4">
+  <h2><a href="/work">Our Work &rarr;</a></h2>
+
+  <div class="row">
+    <div class="col">
+      <img src="http://placehold.it/350x250" alt="">
+    </div>
+    <div class="col">
+      <img src="http://placehold.it/350x250" alt="">
+    </div>
+    <div class="col">
+      <h2><a href="/work">Browse Projects by...</a></h2>
+
+      <p>
+        <h1><a href="">Product Development</a></h1>
+        <a href="">Our Services →</a>
+      </p>
+
+      <p>
+        <h1><a href="">Gardens</a></h1>
+        <a href="">Subject Matter →</a>
+      </p>
+
+      <p>
+        <h1><a href="">NYPL (4 Projects)</a></h1>
+        <a href="">Client List →</a>
+      </p>
+    </div>
+  </div>
 </section>
 
-<section id="research">
-<h2><a href="/research">Our Research &rarr;</a></h2>
+<section id="research" class="my-4">
+  <h2><a href="/research">Our Research &rarr;</a></h2>
+  <div class="row">
+    <div class="col">
+      <div class="card bg-dark text-white">
+        <img class="card-img" src="http://placehold.it/600x400" alt="Card image">
+        <a class="card-img-overlay" href="/research">
+          <h5 class="card-title">Speaking and Writing</h5>
+        </a>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card bg-dark text-white">
+        <img class="card-img" src="http://placehold.it/600x400" alt="Card image">
+        <a class="card-img-overlay" href="/research">
+          <h5 class="card-title">Blog</h5>
+        </a>
+      </div>
+    </div>
+  </div>
 </section>
 
-<section id="shop">
-<h2><a href="/shop">Book &amp; Print Shop &rarr;</a></h2>
+<section id="shop" class="my-4">
+  <h2><a href="/shop">Book &amp; Print Shop &rarr;</a></h2>
+  <div class="row">
+    <div class="col col-3"><img src="http://placehold.it/300x300" alt=""><a href=""></a></div>
+    <div class="col col-3"><img src="http://placehold.it/300x300" alt=""><a href=""></a></div>
+    <div class="col col-3"><img src="http://placehold.it/300x300" alt=""><a href=""></a></div>
+    <div class="col col-3"><img src="http://placehold.it/300x300" alt=""><a href=""></a></div>
+  </div>
 </section>
+
+
+
+
+
+
+
+<style type="text/css">
+/* external css: flickity.css */
+
+.carousel {
+  background: #FAFAFA;
+}
+
+.carousel-cell {
+  width: 90%;
+  margin-right: 10px;
+  background: #8C8;
+}
+
+.carousel-nav .carousel-cell {
+  cursor: pointer;
+}
+
+.carousel-nav .carousel-cell.is-nav-selected {
+  background: #ED2;
+}
+
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script type="text/javascript">
+// external js: flickity.pkgd.js
+
+var $carousel = $('.carousel').flickity();
+
+var $carouselNav = $('.carousel-nav');
+var $carouselNavCells = $carouselNav.find('.carousel-cell');
+
+$carouselNav.on( 'click', '.carousel-cell', function( event ) {
+  var index = $( event.currentTarget ).index();
+  $carousel.flickity( 'select', index );
+});
+
+var flkty = $carousel.data('flickity');
+var navTop  = $carouselNav.position().top;
+var navCellHeight = $carouselNavCells.height();
+var navHeight = $carouselNav.height();
+
+$carousel.on( 'select.flickity', function() {
+  // set selected nav cell
+  $carouselNav.find('.is-nav-selected').removeClass('is-nav-selected');
+  var $selected = $carouselNavCells.eq( flkty.selectedIndex )
+    .addClass('is-nav-selected');
+  // scroll nav
+  var scrollY = $selected.position().top +
+    $carouselNav.scrollTop() - ( navHeight + navCellHeight ) / 2;
+  $carouselNav.animate({
+    scrollTop: scrollY
+  });
+});
+</script>
