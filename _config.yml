@@ -2,11 +2,11 @@
 title: The Graphics Office
 timezone: UTC
 collections:
+  posts:
+    title: Blog
+    output: true
   case-study:
     title: Case Studies
-    output: true
-  posts:
-    title: Posts
     output: true
   research:
     title: Research
