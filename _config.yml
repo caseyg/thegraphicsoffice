@@ -2,7 +2,7 @@
 title: The Graphics Office
 timezone: UTC
 collections:
-  casestudies:
+  case-study:
     title: Case Studies
     output: true
   posts:
