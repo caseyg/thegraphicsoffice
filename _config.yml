@@ -8,6 +8,9 @@ collections:
   posts:
     title: Posts
     output: true
+  research:
+    title: Research
+    output: true
   shop:
     title: Shop
     output: true
