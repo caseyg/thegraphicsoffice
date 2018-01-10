@@ -1,14 +1,6 @@
 ---
-
 title: The Handy Book of Artistic Printing
-date: 2012-10-16 11:40:00.000000000 -04:00
-
-
-published: true
-
-
-categories: []
-tags: []
+date: 2012-10-16 15:40:00 Z
 meta:
   _edit_last: '6'
   _thumbnail_id: '874'
@@ -21,6 +13,7 @@ author:
   first_name: ''
   last_name: ''
 ---
+
 <h1>THE HANDY BOOK OF ARTISTIC PRINTING</h1>
 A Collection of Letterpress Examples with Specimens of Type, Ornament,<br />
 Corner Fills, Borders, Twisters, Wrinklers, and other Freaks of Fancy

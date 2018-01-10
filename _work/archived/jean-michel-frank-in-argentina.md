@@ -1,14 +1,6 @@
 ---
-
 title: Jean-Michel Frank in Argentina
-date: 2012-10-16 11:35:07.000000000 -04:00
-
-
-published: true
-
-
-categories: []
-tags: []
+date: 2012-10-16 15:35:07 Z
 meta:
   _edit_last: '6'
   _thumbnail_id: '873'
@@ -22,6 +14,7 @@ author:
   first_name: ''
   last_name: ''
 ---
+
 <h1>JEAN-MICHEL FRANK IN ARGENTINA</h1>
 <h3>BOOK DESIGN</h3>
 This catalog marked an exhibition of the French furniture designer’s Argentine work at Gallery BAC in New York City. The magenta accent color has connections to two of Frank’s clients: Eugenia Errázuriz, who showed a similar antique “Inca pink” textile to Elsa Schiaparelli, who then appropriated the color as her signature “shocking” pink.

@@ -1,14 +1,6 @@
 ---
-
 title: What Might Have Been, An Irish Family at 97 Orchard Street
-date: 2012-10-16 11:57:11.000000000 -04:00
-
-
-published: true
-
-
-categories: []
-tags: []
+date: 2012-10-16 15:57:11 Z
 meta:
   _edit_last: '6'
   _thumbnail_id: '878'
@@ -21,6 +13,7 @@ author:
   first_name: ''
   last_name: ''
 ---
+
 <h1>WHAT MIGHT HAVE BEEN,<br />
 AN IRISH FAMILY AT 97 ORCHARD STREET</h1>
 <h3>BOOK DESIGN | RESEARCH</h3>

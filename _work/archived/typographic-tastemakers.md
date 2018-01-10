@@ -1,14 +1,6 @@
 ---
-
 title: 'Mackellar, Smiths & Jordan: Typographic Tastemakers of the Nineteenth Century'
-date: 2012-10-16 12:00:29.000000000 -04:00
-
-
-published: true
-
-
-categories: []
-tags: []
+date: 2012-10-16 16:00:29 Z
 meta:
   _edit_last: '6'
   _thumbnail_id: '876'
@@ -21,6 +13,7 @@ author:
   first_name: ''
   last_name: ''
 ---
+
 <h1>MACKELLAR, SMITHS &amp; JORDAN:<br />
 TYPOGRAPHIC TASTEMAKERS OF THE NINETEENTH CENTURY</h1>
 <h3>RESEARCH | WRITING | BOOK DESIGN</h3>

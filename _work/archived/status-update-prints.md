@@ -1,14 +1,6 @@
 ---
-
 title: Status Update prints
-date: 2015-03-05 15:59:31.000000000 -05:00
-
-
-published: true
-
-
-categories: []
-tags: []
+date: 2015-03-05 20:59:31 Z
 meta:
   _edit_last: '6'
   _thumbnail_id: '1369'
@@ -21,6 +13,7 @@ author:
   first_name: admin
   last_name: adcSTUDIO
 ---
+
 <h1>Status Update prints</h1>
 <h3>GRAPHIC DESIGN | PRODUCT DEVELOPMENT</h3>
 Updating the status update: these prints tell it like it is—and isn’t. Inspired by an 1898 obelisk grave marker (the ne plus ultra of status updates) reading NOT DEAD BUT SLEEPETH, these prints are made from rubbings of antique wood type we set from the historical collection at Bowne and Co.

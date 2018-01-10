@@ -1,14 +1,6 @@
 ---
-
 title: Long Remembered
-date: 2012-10-16 12:23:56.000000000 -04:00
-
-
-published: true
-
-
-categories: []
-tags: []
+date: 2012-10-16 16:23:56 Z
 meta:
   _edit_last: '6'
   _thumbnail_id: '880'
@@ -21,6 +13,7 @@ author:
   first_name: ''
   last_name: ''
 ---
+
 <h1>LONG REMEMBERED</h1>
 <h4>The Associated Press with Lincoln at the First Inaugural and Gettysburg</h4>
 <h3>GRAPHIC DESIGN</h3>

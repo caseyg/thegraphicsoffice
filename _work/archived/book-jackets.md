@@ -1,14 +1,6 @@
 ---
-
 title: Book Jackets
-date: 2012-10-16 11:43:16.000000000 -04:00
-
-
-published: true
-
-
-categories: []
-tags: []
+date: 2012-10-16 15:43:16 Z
 meta:
   _edit_last: '6'
   _thumbnail_id: '875'
@@ -22,6 +14,7 @@ author:
   first_name: ''
   last_name: ''
 ---
+
 <h1>BOOK JACKETS</h1>
 <h3>GRAPHIC DESIGN</h3>
 We still like them: commercial, scholarly, what have you.

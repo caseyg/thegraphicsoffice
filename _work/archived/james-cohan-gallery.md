@@ -1,14 +1,6 @@
 ---
-
 title: James Cohan Gallery
-date: 2013-08-16 13:25:36.000000000 -04:00
-
-
-published: true
-
-
-categories: []
-tags: []
+date: 2013-08-16 17:25:36 Z
 meta:
   _edit_last: '6'
   _wp_page_template: default
@@ -21,6 +13,7 @@ author:
   first_name: angela
   last_name: voulangas
 ---
+
 <h1>James Cohan Gallery</h1>
 <h3>graphic design</h3>
 The James Cohan Gallery shows and represents contemporary artists in Chelsea and Shanghai. Invitations and magazine ads we design for the gallery have a rigor established with the use and placement of the typefaces Akzidenz Grotesk and Interstate.

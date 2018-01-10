@@ -1,12 +1,12 @@
 ---
 title: Purchase College School of the Arts
-date: 2015-03-05 16:05:21.000000000 -05:00
-published: true
+date: 2015-03-05 21:05:21 Z
 roles:
-  - Graphic Design
-  - Image Research
-  - Illustration
+- Graphic Design
+- Image Research
+- Illustration
 ---
+
 We work with Purchase College School of the Arts to create much of the print materials for their theater, dance and music performances. First we designed a series of marks to distinguish each of the School’s conservatories and conceive a visual theme each performance season. The posters and playbills require a fast turnaround with little budget for art. We manipulate found images and items from our personal collections. We’ve also designed for Purchase College's <a title="Purchase College" href="/portfolio/purchase-college/">exhibitions, lectures, and Portfolio Day</a>.
 
 <img class="alignnone wp-image-1410 size-medium" src="{{ site.baseurl }}/assets/Purchase-PLAYBILL-COVERS-SM-590x787.jpg" alt="Purchase-PLAYBILL-COVERS-SM" width="590" height="787" />
