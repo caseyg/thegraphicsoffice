@@ -20,22 +20,6 @@ collections:
   work:
     title: Work
     output: true
-defaults:
-- scope:
-    path: ''
-    type: work
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: casestudies
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: shop
-  values:
-    layout: page
 email: desk@thegraphicsoffice.com
 description: TKTKTK
 baseurl: ''
