@@ -1,5 +1,5 @@
 ---
-title: The Graphics Office
+title: The
 position: 1
 layout: home
 ---

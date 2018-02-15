@@ -1,12 +1,33 @@
-.active {
-  font-weight: bold;
+.serif,
+body,
+h1 {
+  font-family: "skolar", serif;
+  font-weight: 100;
 }
 
+.sans,
+h2,
+nav {
+  font-family: "mallory", sans-serif;
+}
 
+nav {
+  font-size: 22px;
+  line-height: 1.25;
+}
 
+nav a:link,
+nav a:visited {
+  color: #000;
+}
 
+img {
+  max-width: 100%;
+}
 
-
+.active {
+  font-weight: 900;
+}
 
 
 .aspect-ratio {
