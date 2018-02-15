@@ -1,3 +1,14 @@
+#the nav {
+  font-size: 42px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#the nav p {
+  font-style: italic;
+  color: teal;
+}
+
 .serif,
 body,
 h1 {
@@ -11,13 +22,28 @@ nav {
   font-family: "mallory", sans-serif;
 }
 
+h2 {
+  font-size: 14px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h2 a:link,
+h2 a:visited {
+  color: #000;
+}
+
 nav {
   font-size: 22px;
   line-height: 1.25;
 }
 
 nav a:link,
-nav a:visited {
+nav a:visited,
+.services a:link,
+.services a:visited {
   color: #000;
 }
 
@@ -29,6 +55,41 @@ img {
   font-weight: 900;
 }
 
+
+.carousel {
+  background: #FAFAFA;
+}
+
+.carousel-cell {
+  width: 90%;
+  margin-right: 10px;
+
+}
+
+.carousel-nav .carousel-cell {
+  cursor: pointer;
+}
+
+.carousel-nav .carousel-cell p {
+  display: none;
+}
+
+.carousel-nav .carousel-cell.is-nav-selected p {
+  display: block;
+}
+
+.carousel-nav .carousel-cell.is-nav-selected h3 {
+  font-weight: 700;
+}
+
+.card, .card-img {
+  border: 0;
+  border-radius: 0;
+}
+
+.services div {
+  line-height: 1;
+}
 
 .aspect-ratio {
     height: 0;

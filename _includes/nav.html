@@ -3,15 +3,21 @@
   {% for my_page in pages %}
     {% if my_page.position != null %}
       {% if my_page.title != "About" %}
-        <a class="{% if page.title == my_page.title %}active {% endif %}pr-2" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        <a class="{% if page.title == my_page.title %}active {% endif %}pr-2" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}{% if my_page.title != "The" %}.{% endif %}</a>
       {% endif %}
     {% endif %}
   {% endfor %}
-  <a href="#footer">Get in Touch</a>
+  <a href="#footer">Get in Touch.</a>
   <br>
   {% if page.title == "The" %}
-  <a class="active" href="/">Graphics Office</a> <p class="serif d-inline">designs for exhibitions and print.<br>
-We give visual and verbal form to an idea, a notion, a sensibility, a group of facts. <a href="/about"><small>Read more &rarr;</small></a></p>
+  <a class="active" href="/">Graphics <br>Office</a> <p class="serif d-inline">
+    <span id="typer">
+      designs for exhibitions and print.<br>
+      gives visual and verbal form to an idea, a notion, a sensibility, a group of facts.<br>
+      is Doug Clouse and Angela Voulongas.<br>
+      is in New York.<br>
+      reads a lot.
+    </span> <br><a href="/about"><small>Read more &rarr;</small></a></p>
   {% else %}
   <a href="">Graphics Office.</a>
   {% endif %}
