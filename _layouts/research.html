@@ -2,26 +2,69 @@
 layout: default
 ---
 
-<h1 class="serif f2 lh-title fw1">{{ content }}</h1>
+<h1 class="serif text-center h2 pb-3" style="max-width:800px;margin: auto;">{{ content }}</h1>
 
-<section id="research">
-  <section id="talks">
+<section id="research" class="row pt-3">
+  <section id="talks" class="col-md-6 col-lg-4">
     <h2><a href="">Talks &rarr;</a></h2>
+    <img src="/uploads/coopertype-blue.jpg" alt="">
+    <p class="mt-2"><a href="">Not Dead But Sleepeth: <em>A Study of Gravestone Lettering with Doug Clouse</em></a></p>
   </section>
-  <section id="essays">
+  <section id="essays" class="col-md-6 col-lg-4">
     <h2><a href="">Essays &amp; Articles &rarr;</a></h2>
+    <ul class="list-unstyled">
+      <li class="media">
+        <div class="media-body">
+          <a href="">
+            <h5 class="mt-0 mb-1">List-based media object</h5>
+            Cras sit amet nibh libero, in gravida nulla.
+          </a>
+        </div>
+      </li>
+      <li class="media my-3">
+        <div class="media-body">
+          <a href="">
+            <h5 class="mt-0 mb-1">List-based media object</h5>
+            Nulla vel metus scelerisque ante sollicitudin.
+          </a>
+        </div>
+      </li>
+      <li class="media">
+        <div class="media-body">
+          <a href="">
+            <h5 class="mt-0 mb-1">List-based media object</h5>
+            Fusce condimentum nunc ac nisi vulputate fringilla.
+          </a>
+        </div>
+      </li>
+    </ul>
   </section>
-  <section id="books">
+  <section id="books" class="col-md-6 col-lg-4">
     <h2><a href="">Books &rarr;</a></h2>
+    <div class="row">
+      <div class="col-6">
+        <img src="/uploads/artisticprinting.jpg" alt="">
+      </div>
+      <div class="col-6">
+        <img src="/uploads/mackellar.jpg" alt="">
+      </div>
+    </div>
   </section>
 </section>
+</div>
 
-<section id="feeds">
-  <h2>What we're looking at...</h2>
-  <section id="doug">
-    <h3>Doug</h3>
-  </section>
-  <section id="angela">
-    <h3>Angela</h3>
-  </section>
-</section>
+<div class="container-fluid py-3 text-center" style="background: #222;color:#fff;">
+  <div class="container">
+    <section id="feeds">
+      <h2>What we're looking at...</h2>
+      <div class="row">
+        <section id="doug" class="col-6">
+          <h3>Doug</h3>
+        </section>
+        <section id="angela" class="col-6">
+          <h3>Angela</h3>
+        </section>
+      </div>
+    </section>
+  </div>
+</div>
