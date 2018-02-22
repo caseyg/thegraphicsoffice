@@ -3,34 +3,15 @@ layout: default
 ---
 
 <section id="selected-projects">
-  <h2>Selected Projects</h2>
+  <h2>All Projects</h2>
   <div class="card-columns">
     {% for work in site.work %}
-    {% if work.url contains "/archived" %}
-    {% else %}
       <div class="card">
         <img class="card-img-top" src="http://placehold.it/400x400" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title"><a href="{{ work.url }}">{{ work.title }}</a></h5>
         </div>
       </div>
-    {% endif %}
     {% endfor %}
   </div>
-</section>
-
-<h2 class="serif">{{ content }}</h2>
-
-<hr>
-
-<a href="/work/archived">See all projects &rarr;</a>
-
-<hr>
-
-<section id="browse">
-  <h2>Browse Projects by...</h2>
-</section>
-
-<section id="casestudies">
-
 </section>
