@@ -3,29 +3,27 @@ layout: default
 ---
 
 <section id="imagery" class="my-4">
-    <img src="http://placehold.it/2000x1000" alt="">
+    <img src="/uploads/shop.jpg">
 </section>
 
-<h1 class="serif f2 lh-title fw1">{{ content }}</h1>
+<h1 class="serif text-center h2 pb-3" style="max-width:800px;margin: auto;">{{ content }}</h1>
 
 <section id="prints">
     <h2>Prints</h2>
+    <div class="row">
+        {% assign prints = site.shop | where: "categories","Prints" %}
+        {% for print in prints %}
+            <div class="col-6 col-md-4">
+                <a href="{{ print.url }}">
+                    <img src="{{ print.image }}" alt="{{ print.title }}">
+                    {{ print.title }}
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+
 </section>
 
 <section id="books">
     <h2>Books</h2>
-</section>
-
-<section class="cf w-100 pa2-ns">
-    {% for item in site.shop %}
-        <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
-          <a href="{{ item.url }}" class="ph2 ph0-ns pb3 link db">
-            <div class="aspect-ratio aspect-ratio--1x1">
-              <img style="background-image:url();"
-              class="db bg-center cover aspect-ratio--object" />
-            </div>
-            <h3 class="f5 f4-ns mb0 black-90">{{ item.title }}</h3>
-          </a>
-        </article>
-    {% endfor %}
 </section>

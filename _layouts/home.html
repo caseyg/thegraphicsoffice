@@ -73,7 +73,7 @@ layout: default
   <div class="row">
     <div class="col-sm-6 mb-4">
       <div class="card bg-dark text-white">
-        <img class="card-img" src="http://placehold.it/600x400" alt="Card image">
+        <img class="card-img" src="/uploads/coopertype-blue.jpg">
         <a class="card-img-overlay" href="/research">
           <h5 class="card-title">Speaking and Writing</h5>
         </a>
@@ -95,10 +95,14 @@ layout: default
 <section id="shop" class="my-4">
   <h2><a href="/shop">Book &amp; Print Shop &rarr;</a></h2>
   <div class="row">
-    <div class="col-6 col-sm-3 mb-4"><img src="http://placehold.it/300x300" alt=""><a href=""></a></div>
-    <div class="col-6 col-sm-3 mb-4"><img src="http://placehold.it/300x300" alt=""><a href=""></a></div>
-    <div class="col-6 col-sm-3 mb-4"><img src="http://placehold.it/300x300" alt=""><a href=""></a></div>
-    <div class="col-6 col-sm-3 mb-4"><img src="http://placehold.it/300x300" alt=""><a href=""></a></div>
+    {% for item in site.shop | limit: 4 %}
+        <div class="col-6 col-md-3">
+            <a href="{{ item.url }}">
+                <img src="{{ item.image }}" alt="{{ item.title }}">
+                {{ item.title }}
+            </a>
+        </div>
+    {% endfor %}
   </div>
 </section>
 

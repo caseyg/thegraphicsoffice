@@ -36,6 +36,15 @@ footer a:visited {
   color: #222;
 }
 
+#selected-projects .card img {
+  transform: scale(.8);
+  transition: all .25s;
+}
+
+#selected-projects .card:hover img {
+  transform: scale(.9);
+}
+
 h2 {
   font-size: 14px;
 }
