@@ -1,6 +1,6 @@
 ---
 title: Creative Transformation
-date: 2018-01-10 16:28:00 Z
+date: 2018-01-10 11:28:00 -05:00
 sections:
 - image: "/uploads/800x600.png"
   image_caption: 

@@ -1,6 +1,6 @@
 ---
 title: Book Jackets
-date: 2012-10-16 15:43:16 Z
+date: 2012-10-16 11:43:16 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '875'

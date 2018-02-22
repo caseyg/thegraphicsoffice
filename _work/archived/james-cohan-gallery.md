@@ -1,6 +1,6 @@
 ---
 title: James Cohan Gallery
-date: 2013-08-16 17:25:36 Z
+date: 2013-08-16 13:25:36 -04:00
 meta:
   _edit_last: '6'
   _wp_page_template: default

@@ -1,6 +1,6 @@
 ---
 title: The Future Beneath Us - print
-date: 2012-10-16 16:12:18 Z
+date: 2012-10-16 12:12:18 -04:00
 meta:
   _edit_last: '6'
   _wp_page_template: default

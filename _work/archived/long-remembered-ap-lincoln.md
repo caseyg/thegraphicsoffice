@@ -1,6 +1,6 @@
 ---
 title: Long Remembered - print
-date: 2012-10-16 15:28:38 Z
+date: 2012-10-16 11:28:38 -04:00
 meta:
   _thumbnail_id: '871'
   _edit_last: '6'

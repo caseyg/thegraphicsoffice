@@ -1,6 +1,6 @@
 ---
 title: NYHS Lincoln
-date: 2012-10-16 13:36:22 Z
+date: 2012-10-16 09:36:22 -04:00
 meta:
   _edit_last: '6'
   _wp_page_template: default

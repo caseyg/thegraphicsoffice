@@ -1,6 +1,6 @@
 ---
 title: Summit Downtown, Inc.
-date: 2014-02-24 21:32:25 Z
+date: 2014-02-24 16:32:25 -05:00
 meta:
   _edit_last: '5'
   _thumbnail_id: '1328'

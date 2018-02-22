@@ -1,6 +1,6 @@
 ---
 title: Purchase College
-date: 2012-10-16 16:41:22 Z
+date: 2012-10-16 12:41:22 -04:00
 meta:
   _edit_last: '6'
   _wp_page_template: default

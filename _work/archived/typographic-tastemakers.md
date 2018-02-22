@@ -1,6 +1,6 @@
 ---
 title: 'Mackellar, Smiths & Jordan: Typographic Tastemakers of the Nineteenth Century'
-date: 2012-10-16 16:00:29 Z
+date: 2012-10-16 12:00:29 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '876'

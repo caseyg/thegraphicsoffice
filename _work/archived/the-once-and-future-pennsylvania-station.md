@@ -1,6 +1,6 @@
 ---
 title: The Once and Future Pennsylvania Station
-date: 2012-10-16 15:20:10 Z
+date: 2012-10-16 11:20:10 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '869'

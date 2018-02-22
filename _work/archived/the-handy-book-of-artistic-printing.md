@@ -1,6 +1,6 @@
 ---
 title: The Handy Book of Artistic Printing
-date: 2012-10-16 15:40:00 Z
+date: 2012-10-16 11:40:00 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '874'

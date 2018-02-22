@@ -1,6 +1,6 @@
 ---
 title: The New York Historical Society
-date: 2012-10-16 16:38:02 Z
+date: 2012-10-16 12:38:02 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '885'

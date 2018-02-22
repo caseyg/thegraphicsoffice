@@ -1,6 +1,6 @@
 ---
 title: General Contractors Association 2014 Annual Report
-date: 2015-03-05 21:23:43 Z
+date: 2015-03-05 16:23:43 -05:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '1366'

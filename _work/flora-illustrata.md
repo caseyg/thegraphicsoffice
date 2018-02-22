@@ -1,6 +1,6 @@
 ---
 title: Flora Illustrata
-date: 2015-03-05 21:12:14 Z
+date: 2015-03-05 16:12:14 -05:00
 thumb: "/uploads/flora-thumb.jpg"
 ---
 

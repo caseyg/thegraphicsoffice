@@ -1,6 +1,6 @@
 ---
 title: 'Shelley’s Ghost: The After-Life of a Poet'
-date: 2012-10-16 15:25:50 Z
+date: 2012-10-16 11:25:50 -04:00
 thumb: "/uploads/shelley-thumb.jpg"
 roles:
 - Exhibition Design

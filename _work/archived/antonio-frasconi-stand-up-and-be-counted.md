@@ -1,6 +1,6 @@
 ---
 title: 'Antonio Frasconi: Stand Up and Be Counted'
-date: 2015-03-05 21:24:25 Z
+date: 2015-03-05 16:24:25 -05:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '1365'

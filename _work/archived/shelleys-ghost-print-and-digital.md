@@ -1,6 +1,6 @@
 ---
 title: Shelley’s Ghost - print and digital
-date: 2012-10-16 16:17:50 Z
+date: 2012-10-16 12:17:50 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '952'

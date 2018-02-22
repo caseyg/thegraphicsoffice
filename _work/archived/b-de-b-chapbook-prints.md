@@ -1,6 +1,6 @@
 ---
 title: B de B Chapbook prints
-date: 2015-03-05 21:00:33 Z
+date: 2015-03-05 16:00:33 -05:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '1362'
