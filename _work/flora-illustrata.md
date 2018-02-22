@@ -1,7 +1,7 @@
 ---
 title: Flora Illustrata
-thumb: "/uploads/flora-thumb.jpg"
 date: 2015-03-05 21:12:14 Z
+thumb: "/uploads/flora-thumb.jpg"
 ---
 
 <h1 class="p1">Flora Illustrata</h1>

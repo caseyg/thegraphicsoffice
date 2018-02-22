@@ -1,5 +1,6 @@
 ---
 title: Work Archive
+permalink: "/work/archived/"
 layout: work-archived
-permalink: /work/archived/
 ---
+
