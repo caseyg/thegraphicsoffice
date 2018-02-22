@@ -30,7 +30,7 @@ defaults:
     path: ''
     type: case-study
   values:
-    layout: default
+    layout: case-study
 - scope:
     path: ''
     type: shop
