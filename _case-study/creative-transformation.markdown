@@ -25,4 +25,4 @@ sections:
   text: "(Additional option: Bunny Mellon exhibition title wall)"
 ---
 
-When we recognize quality in something overlooked or taken for granted, we find it immensely satisfying to shape and share it in a contemporary form. Sometimes the impulse derives from a desire to reanimate history; sometimes from the need to add drama to a design.
+When we recognize quality in something overlooked or taken for granted, we find it immensely satisfying to shape and share it in a contemporary form. Sometimes the impulse derives from a desire to reanimate history; sometimes from the need to add drama to a design. 
