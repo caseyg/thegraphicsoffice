@@ -1,6 +1,6 @@
 ---
 title: 'Tanyth Berkeley: The Frequency'
-date: 2012-10-16 15:50:00 Z
+date: 2012-10-16 11:50:00 -04:00
 thumb: "/uploads/taynth-thumb.jpg"
 roles:
 - Book Design

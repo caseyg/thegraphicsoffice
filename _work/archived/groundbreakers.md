@@ -1,6 +1,6 @@
 ---
 title: Groundbreakers
-date: 2015-03-05 21:13:43 Z
+date: 2015-03-05 16:13:43 -05:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '1367'

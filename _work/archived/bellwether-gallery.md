@@ -1,6 +1,6 @@
 ---
 title: Bellwether Gallery
-date: 2012-10-16 16:29:12 Z
+date: 2012-10-16 12:29:12 -04:00
 meta:
   _edit_last: '6'
   _wp_page_template: default

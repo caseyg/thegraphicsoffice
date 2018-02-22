@@ -1,6 +1,6 @@
 ---
 title: Alvin Lustig, American Modernist
-date: 2012-10-16 15:15:11 Z
+date: 2012-10-16 11:15:11 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '867'

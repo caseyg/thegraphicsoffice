@@ -1,6 +1,6 @@
 ---
 title: Status Update prints
-date: 2015-03-05 20:59:31 Z
+date: 2015-03-05 15:59:31 -05:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '1369'

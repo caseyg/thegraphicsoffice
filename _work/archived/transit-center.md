@@ -1,6 +1,6 @@
 ---
 title: Transit Center
-date: 2014-02-24 21:21:03 Z
+date: 2014-02-24 16:21:03 -05:00
 meta:
   _edit_last: '3'
   _wp_page_template: default

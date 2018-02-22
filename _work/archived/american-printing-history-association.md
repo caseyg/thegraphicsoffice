@@ -1,6 +1,6 @@
 ---
 title: American Printing History Association
-date: 2013-08-16 17:28:57 Z
+date: 2013-08-16 13:28:57 -04:00
 meta:
   _wp_page_template: default
   pfwk_exclude: 'false'

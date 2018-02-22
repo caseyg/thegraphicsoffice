@@ -1,6 +1,6 @@
 ---
 title: Mary Colter, Architect of the Southwest
-date: 2012-10-16 15:47:16 Z
+date: 2012-10-16 11:47:16 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '872'

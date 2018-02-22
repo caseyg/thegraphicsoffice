@@ -1,6 +1,6 @@
 ---
 title: A Tenement Story
-date: 2012-10-16 15:54:33 Z
+date: 2012-10-16 11:54:33 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '879'

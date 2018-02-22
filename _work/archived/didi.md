@@ -1,6 +1,6 @@
 ---
 title: DIDI
-date: 2012-10-16 17:19:07 Z
+date: 2012-10-16 13:19:07 -04:00
 meta:
   _edit_last: '3'
   _wp_page_template: default

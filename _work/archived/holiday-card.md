@@ -1,6 +1,6 @@
 ---
 title: Holiday card
-date: 2015-03-05 21:02:21 Z
+date: 2015-03-05 16:02:21 -05:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '1368'

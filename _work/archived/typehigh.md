@@ -1,6 +1,6 @@
 ---
 title: TypeHigh
-date: 2012-10-16 17:21:44 Z
+date: 2012-10-16 13:21:44 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '893'

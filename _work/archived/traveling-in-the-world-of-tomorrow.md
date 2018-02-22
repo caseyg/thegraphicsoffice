@@ -1,6 +1,6 @@
 ---
 title: Traveling in the World of Tomorrow
-date: 2015-03-05 21:25:38 Z
+date: 2015-03-05 16:25:38 -05:00
 meta:
   _edit_last: '6'
   _wp_page_template: default

@@ -1,6 +1,6 @@
 ---
 title: Letterpress Experiments
-date: 2013-08-16 17:32:29 Z
+date: 2013-08-16 13:32:29 -04:00
 meta:
   _edit_last: '6'
   _wp_page_template: default

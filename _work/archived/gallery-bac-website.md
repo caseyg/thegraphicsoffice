@@ -1,6 +1,6 @@
 ---
 title: Gallery BAC website
-date: 2013-07-31 14:59:27 Z
+date: 2013-07-31 10:59:27 -04:00
 meta:
   pfwk_exclude: 'false'
   _edit_last: '5'

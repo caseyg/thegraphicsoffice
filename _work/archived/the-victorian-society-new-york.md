@@ -1,6 +1,6 @@
 ---
 title: The Victorian Society New York
-date: 2012-10-16 16:47:24 Z
+date: 2012-10-16 12:47:24 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '889'

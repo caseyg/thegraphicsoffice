@@ -1,6 +1,6 @@
 ---
 title: Jean-Michel Frank in Argentina
-date: 2012-10-16 15:35:07 Z
+date: 2012-10-16 11:35:07 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '873'

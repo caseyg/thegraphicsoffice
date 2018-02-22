@@ -1,6 +1,6 @@
 ---
 title: Studio Museum Harlem
-date: 2013-08-10 18:03:56 Z
+date: 2013-08-10 14:03:56 -04:00
 meta:
   _edit_last: '1'
   _wp_page_template: default

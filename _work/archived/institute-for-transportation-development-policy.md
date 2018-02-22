@@ -1,6 +1,6 @@
 ---
 title: Institute for Transportation & Development Policy
-date: 2012-10-16 16:34:37 Z
+date: 2012-10-16 12:34:37 -04:00
 meta:
   _edit_last: '6'
   _wp_page_template: default

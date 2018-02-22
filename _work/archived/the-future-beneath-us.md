@@ -1,6 +1,6 @@
 ---
 title: The Future Beneath Us - exhibition
-date: 2012-10-16 14:47:53 Z
+date: 2012-10-16 10:47:53 -04:00
 meta:
   _edit_last: '6'
   _thumbnail_id: '949'
