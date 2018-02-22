@@ -1,6 +1,6 @@
 ---
 title: The Graphics Office
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Blog
@@ -38,8 +38,8 @@ defaults:
     layout: page
 email: desk@thegraphicsoffice.com
 description: TKTKTK
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 markdown: kramdown
 plugins:
 - jekyll-feed
