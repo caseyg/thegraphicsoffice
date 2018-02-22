@@ -2,19 +2,19 @@
 title: Creative Transformation
 date: 2018-01-10 16:28:00 Z
 sections:
-- image: 
+- image: "/uploads/800x600.png"
   image_caption: 
   text: |
     ## *Minutes to Midtown* exhibition, New York Transit Museum
 
     A curator’s sidebar text on the history of industry in Queens seemed abstract. Further research revealed that Queens has been the origin and home of many great American companies. Why not design a “Made in Queens” wall of logos and include some vintage packaging?
-- image: 
+- image: "/uploads/800x600.png"
   image_caption: 
   text: |
     ## *Shelley’s Ghost* exhibition, New York Public Library
 
     In an effort to engage visitors with the poet Percy Bysshe Shelley’s ideas, and to help fulfill the brief to design a dynamic and dramatic exhibition, we suggested four keepsake cards to be made available free of charge in the gallery. We printed the cards letterpress on thick paper and distributed them from a vintage library card catalog drawer.
-- image: 
+- image: "/uploads/800x600.png"
   image_caption: 
   text: |-
     ## Rubenstein corporate history wall
