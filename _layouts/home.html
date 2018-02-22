@@ -95,7 +95,7 @@ layout: default
 <section id="shop" class="my-4">
   <h2><a href="/shop">Book &amp; Print Shop &rarr;</a></h2>
   <div class="row">
-    {% for item in site.shop | limit: 4 %}
+    {% for item in site.shop %}
         <div class="col-6 col-md-3">
             <a href="{{ item.url }}">
                 <img src="{{ item.image }}" alt="{{ item.title }}">
