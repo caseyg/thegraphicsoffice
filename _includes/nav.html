@@ -12,11 +12,9 @@
   {% if page.title == "The" %}
   <a class="active" href="/">Graphics <br>Office</a> <p class="serif d-inline">
     <span id="typer">
-      designs for exhibitions and print.<br>
-      gives visual and verbal form to an idea, a notion, a sensibility, a group of facts.<br>
-      is Doug Clouse and Angela Voulongas.<br>
-      is in New York.<br>
-      reads a lot.
+      {% for typing in page.typings %}
+      {{ typing }}<br>
+      {% endfor %}
     </span> <br><a href="/about"><small>Read more &rarr;</small></a></p>
   {% else %}
   <a href="/">Graphics <br>Office.</a>
