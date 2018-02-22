@@ -1,5 +1,5 @@
 {% assign pages = site.pages | sort:"position" %}
-<nav class="mb-4">
+<nav class="mb-4" style="position:relative;">
   {% for my_page in pages %}
     {% if my_page.position != null %}
       {% if my_page.title != "About" %}
@@ -7,7 +7,6 @@
       {% endif %}
     {% endif %}
   {% endfor %}
-  <a href="#footer">Get in Touch.</a>
   <br>
   {% if page.title == "The" %}
   <a class="active" href="/">Graphics <br>Office</a> <p class="serif d-inline">
@@ -19,4 +18,5 @@
   {% else %}
   <a href="/">Graphics <br>Office.</a>
   {% endif %}
+  <a class="btn btn-outline-dark sans" style="position:absolute;top:0;right:0;" href="#footer">Get in Touch.</a>
 </nav>
