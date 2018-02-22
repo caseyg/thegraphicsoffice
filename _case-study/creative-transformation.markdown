@@ -20,7 +20,7 @@ sections:
     ## Rubenstein corporate history wall
 
     While designing a display for a prominent public relations firm with a long history, we sifted through scores of vintage company photos and artifacts. One thing stood out: a collection of founder’s vintage A–Z Rolodexes. We had them photographed and featured prominently on the final wall. History, connections, and influence compressed into one shot.
-- image: "/uploads/status-thumb-bd13dc.jpg"
+- image: "/uploads/taynth-thumb.jpg"
   image_caption: 
   text: "(Additional option: Bunny Mellon exhibition title wall)"
 ---
