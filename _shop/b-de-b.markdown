@@ -6,5 +6,6 @@ categories:
 tags:
 - Be de B
 image: "/uploads/BdeB-ATOXYZ-SHOPsm.jpg"
+price: "$45"
 ---
 
