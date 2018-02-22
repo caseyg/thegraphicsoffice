@@ -22,6 +22,15 @@ nav {
   font-family: "mallory", sans-serif;
 }
 
+.sans strong {
+  font-weight: bold;
+}
+
+footer a:link,
+footer a:visited {
+  color: #fff;
+}
+
 h2 {
   font-size: 14px;
 }
