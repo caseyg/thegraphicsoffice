@@ -1,5 +1,6 @@
 ---
 title: 'Phyllida Barlow: Scree'
+thumb: "/uploads/barlow-thumb.jpg"
 date: 2015-03-05 21:25:06 Z
 roles:
 - Book Design

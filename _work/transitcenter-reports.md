@@ -1,5 +1,6 @@
 ---
 title: TransitCenter Reports
+thumb: "/uploads/transit-thumb.jpg"
 date: 2015-03-05 21:22:31 Z
 meta:
   _edit_last: '6'
@@ -32,5 +33,3 @@ author:
 
 
 <p class="p2"><img class="alignnone size-large wp-image-1391" src="{{ site.baseurl }}/assets/TC-MAP-CLOSE-1-SM-740x494.jpg" alt="TC-MAP-CLOSE-1-SM" width="740" height="494" />
-
-

@@ -8,11 +8,11 @@ layout: default
     {% for work in site.work %}
     {% if work.url contains "/archived" %}
     {% else %}
-      <div class="card">
-        <img class="card-img-top" src="http://placehold.it/400x400" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title"><a href="{{ work.url }}">{{ work.title }}</a></h5>
-        </div>
+      <div class="card p-3 text-center sans">
+        <a href="{{ work.url }}">
+          <img class="card-img-top" src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/400x400{% endif %}" alt="{{ work.title }}">
+          <h5 class="card-title mt-1">{{ work.title }}</h5>
+        </a>
       </div>
     {% endif %}
     {% endfor %}

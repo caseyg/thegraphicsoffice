@@ -31,6 +31,11 @@ footer a:visited {
   color: #fff;
 }
 
+#selected-projects a:link,
+#selected-projects a:visited {
+  color: #222;
+}
+
 h2 {
   font-size: 14px;
 }
