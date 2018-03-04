@@ -2,7 +2,7 @@
 title: Creative Transformation
 date: 2018-01-10 11:28:00 -05:00
 sections:
-- image: "/uploads/productandrealestatewalls.jpg"
+- image: "/uploads/IMG_2245.JPG"
   image_caption: 
   text: |
     ## *Minutes to Midtown* exhibition, New York Transit Museum
@@ -14,7 +14,8 @@ sections:
     ## *Shelley’s Ghost* exhibition, New York Public Library
 
     In an effort to engage visitors with the poet Percy Bysshe Shelley’s ideas, and to help fulfill the brief to design a dynamic and dramatic exhibition, we suggested four keepsake cards to be made available free of charge in the gallery. We printed the cards letterpress on thick paper and distributed them from a vintage library card catalog drawer.
-- image: "/uploads/RubensteinWallEntire.jpg"
+- Key: "/uploads/RubensteinWallEntire.jpg"
+  image: "/uploads/RubensteinWallEntire.jpg"
   image_caption: 
   text: |-
     ## Rubenstein corporate history wall
