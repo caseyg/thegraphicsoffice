@@ -2,12 +2,12 @@
 title: Creative Transformation
 date: 2018-01-10 11:28:00 -05:00
 sections:
-- image: "/uploads/IMG_2085.JPG"
+- image: "/uploads/IMG_2245.JPG"
   image_caption: 
   text: |
     ## *Minutes to Midtown* exhibition, New York Transit Museum
 
-    A curator’s sidebar text on the history of industry in Queens seemed abstract. Further research revealed that Queens has been the origin and home of many great American companies. Why not design a “Made in Queens” wall of logos and include some vintage packaging?
+    A curator’s sidebar text on the history of industry in Queens seemed abstract. Further research revealed that Queens has been the origin and home of many great American companies. Why not design a “Made in Queens” wall of logos and include some vintage packaging?[IMG_2085.JPG](/uploads/IMG_2085.JPG)
 - image: "/uploads/800x600.png"
   image_caption: 
   text: |
