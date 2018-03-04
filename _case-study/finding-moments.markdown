@@ -1,5 +1,5 @@
 ---
-title: Finding Moments
+title: Finding Resonance
 date: 2018-01-10 11:12:00 -05:00
 ---
 
