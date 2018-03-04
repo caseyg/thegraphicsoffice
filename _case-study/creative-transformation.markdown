@@ -8,7 +8,7 @@ sections:
     ## *Minutes to Midtown* exhibition, New York Transit Museum
 
     A curator’s sidebar text on the history of industry in Queens seemed abstract. Further research revealed that Queens has been the origin and home of many great American companies. Why not design a “Made in Queens” wall of logos and include some vintage packaging?
-- image: "/uploads/800x600.png"
+- image: "/uploads/TGO-Shelley_Fanny_RET.jpg"
   image_caption: 
   text: |
     ## *Shelley’s Ghost* exhibition, New York Public Library
