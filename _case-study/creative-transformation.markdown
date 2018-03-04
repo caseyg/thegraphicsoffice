@@ -7,7 +7,7 @@ sections:
   text: |
     ## *Minutes to Midtown* exhibition, New York Transit Museum
 
-    A curator’s sidebar text on the history of industry in Queens seemed abstract. Further research revealed that Queens has been the origin and home of many great American companies. Why not design a “Made in Queens” wall of logos and include some vintage packaging?[IMG_2085.JPG](/uploads/IMG_2085.JPG)
+    A curator’s sidebar text on the history of industry in Queens seemed abstract. Further research revealed that Queens has been the origin and home of many great American companies. Why not design a “Made in Queens” wall of logos and include some vintage packaging?
 - image: "/uploads/800x600.png"
   image_caption: 
   text: |
