@@ -14,8 +14,8 @@ sections:
     ## *Shelley’s Ghost* exhibition, New York Public Library
 
     In an effort to engage visitors with the poet Percy Bysshe Shelley’s ideas, and to help fulfill the brief to design a dynamic and dramatic exhibition, we suggested four keepsake cards to be made available free of charge in the gallery. We printed the cards letterpress on thick paper and distributed them from a vintage library card catalog drawer.
-- Key: "/uploads/RubensteinWallEntire.jpg"
-  image: "/uploads/RubensteinWallEntire.jpg"
+- image: "/uploads/RubensteinWallEntire.jpg"
+  Key: "/uploads/RubensteinWallEntire.jpg"
   image_caption: 
   text: |-
     ## Rubenstein corporate history wall
