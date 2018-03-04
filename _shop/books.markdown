@@ -5,4 +5,3 @@ position: 0
 Image: "/uploads/artisticprinting.jpg"
 ---
 
-![artisticprinting.jpg](/uploads/artisticprinting.jpg)
