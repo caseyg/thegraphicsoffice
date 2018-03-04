@@ -5,6 +5,7 @@ categories:
 - Prints
 tags:
 - Be de B
+position: 3
 image: "/uploads/BdeB-ATOXYZ-SHOPsm.jpg"
 price: "$45"
 ---
