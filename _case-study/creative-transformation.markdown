@@ -2,7 +2,7 @@
 title: Creative Transformation
 date: 2018-01-10 11:28:00 -05:00
 sections:
-- image: "/uploads/800x600.png"
+- image: "/uploads/IMG_2085.JPG"
   image_caption: 
   text: |
     ## *Minutes to Midtown* exhibition, New York Transit Museum
