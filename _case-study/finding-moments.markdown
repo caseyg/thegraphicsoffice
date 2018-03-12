@@ -1,5 +1,5 @@
 ---
-title: Finding Resonance
+title: Resonance
 date: 2018-01-10 11:12:00 -05:00
 ---
 
