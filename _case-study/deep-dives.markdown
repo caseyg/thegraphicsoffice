@@ -1,9 +1,9 @@
 ---
-title: Driven by Curiosity
+title: Curiosity
 date: 2018-01-10 11:29:00 -05:00
 ---
 
-Occasionally we are driven — by inspiration, obsession, or need — to research and explore a fascinating historical issue in design, or a client’s brief.
+Occasionally we are driven — by inspiration, obsession, or need — to research and explore a historical issue in design, or a client’s brief.
  
 ## The Handy Book of Artistic Printing book
 
