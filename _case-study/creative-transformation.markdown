@@ -23,4 +23,6 @@ sections:
     While designing a display for a prominent public relations firm with a long history, we sifted through scores of vintage company photos and artifacts. One thing stood out: a collection of founder’s vintage A–Z Rolodexes. We had them photographed and featured prominently on the final wall. History, connections, and influence compressed into one shot.
 ---
 
-When we recognize quality in something overlooked or taken for granted, we find it immensely satisfying to shape and share it in a contemporary form. Sometimes the impulse derives from a desire to reanimate history; sometimes from the need to add drama to a design. 
+When we recognize quality in something overlooked or relatively insignificant, we find it immensely satisfying to shape and share it in a contemporary form. Sometimes the impulse derives from a desire to reanimate history; sometimes from the need to add drama to a design. 
+
+##The line of alphabet prints we call “B. de B.” are sourced from a 19th-century scrapbook of children’s chapbook pages that we bought at an antiques fair. We combined images and letters from the album, supplemented the missing letters, and created a completely new set of prints. 
