@@ -61,7 +61,7 @@ layout: default
     {% for work in site.work limit:2 %}
     <div class="col-6 col-md-4">
       <a href="{{ work.url }}">
-        <img src="http://placehold.it/350x250?text={{ work.title }}" alt="">
+        <img src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/350x250?text={{ work.title }}{% endif %}" alt="{{ work.title }}">
         {{ work.title }}
       </a>
     </div>
