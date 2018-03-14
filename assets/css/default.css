@@ -93,11 +93,11 @@ img {
   cursor: pointer;
 }
 
-.carousel-nav .carousel-cell p {
+.carousel-nav .carousel-cell .carousel-cell__content {
   display: none;
 }
 
-.carousel-nav .carousel-cell.is-nav-selected p {
+.carousel-nav .carousel-cell.is-nav-selected .carousel-cell__content {
   display: block;
 }
 

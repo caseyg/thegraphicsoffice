@@ -21,7 +21,10 @@ layout: default
         {% for case-study in site.case-study %}
           <div class="carousel-cell {% if forloop.first %}is-nav-selected{% endif %}">
             <h3>{{ case-study.title }}</h3>
-            {% if case-study.description %}{{ case-study.description | markdownify }}{% endif %}
+            <div class="carousel-cell__content">
+              {% if case-study.description %}{{ case-study.description | markdownify }}{% endif %}
+              <small><a href="{{ case-study.url }}">Read more &rarr;</a></small>
+            </div>
             {% if forloop.last == false %}<hr>{% endif %}
           </div>
         {% endfor %}
