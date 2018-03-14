@@ -1,10 +1,22 @@
-#the nav {
+.nav--top a:hover {
+  text-decoration: none;
+  color: gray;
+}
+
+.nav--top__logo {
   font-size: 42px;
   padding-top: 50px;
   padding-bottom: 50px;
+  line-height: .8;
 }
 
-#the nav p {
+.nav--top__items {
+  position: absolute;
+    top: 5px;
+    left: 4.5em;
+}
+
+.typer {
   font-style: italic;
   color: teal;
 }

@@ -1,22 +1,16 @@
 {% assign pages = site.pages | sort:"position" %}
-<nav class="mb-4" style="position:relative;">
+<nav class="mb-4 nav--top" style="position:relative;">
+  <a class="nav--top__logo active" href="/">The <br>Graphics <br>Office.</a>
+  <ul class="list-inline nav--top__items">
   {% for my_page in pages %}
     {% if my_page.position != null %}
       {% if my_page.title != "About" %}
-        <a class="{% if page.title == my_page.title %}active {% endif %}pr-2" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}{% if my_page.title != "The" %}.{% endif %}</a>
+        <li class="list-inline-item"><a class="{% if page.title == my_page.title %}active {% endif %}pr-1" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}{% if my_page.title != "The" %}.{% endif %}</a></li>
       {% endif %}
     {% endif %}
   {% endfor %}
+  </ul>
   <br>
-  {% if page.title == "The" %}
-  <a class="active" href="/">Graphics <br>Office</a> <p class="serif d-inline">
-    <span id="typer">
-      {% for typing in page.typings %}
-      {{ typing }}<br>
-      {% endfor %}
-    </span>
-  {% else %}
-  <a href="/">Graphics <br>Office.</a>
-  {% endif %}
+  <a href="/about">Read more &rarr;</a>
   <a class="btn btn-outline-dark sans" style="position:absolute;top:0;right:0;" href="#footer">Get in Touch.</a>
 </nav>

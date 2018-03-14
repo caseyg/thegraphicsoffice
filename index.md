@@ -1,6 +1,5 @@
 ---
-title: The
-position: 1
+title: Home
 typings:
 - designs for exhibitions and print.
 - shapes ideas, notions, sensibilities, and facts.
@@ -9,4 +8,3 @@ typings:
 - reads a lot.
 layout: home
 ---
-
