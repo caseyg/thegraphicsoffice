@@ -4,6 +4,10 @@ date: 2018-01-10 11:28:00 -05:00
 tags:
 - case study
 header-image: "/uploads/transformation.png"
+description: When we recognize quality in something overlooked or relatively insignificant,
+  we find it immensely satisfying to shape and share it in a contemporary form. Sometimes
+  the impulse derives from a desire to reanimate history; sometimes from the need
+  to add drama to a design.
 sections:
 - image: "/uploads/productandrealestatewalls.jpg"
   image_caption: 
