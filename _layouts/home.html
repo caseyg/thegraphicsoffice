@@ -14,7 +14,7 @@ layout: default
     <div class="carousel-container row">
       <div class="carousel carousel-main col-md-9">
         {% for case-study in site.case-study %}
-          <div class="carousel-cell"><a href="{{ case-study.url }}"><img src="http://placehold.it/1000x600?text={{ case-study.title }}" alt=""></a></div>
+          <div class="carousel-cell"><a href="{{ case-study.url }}"><img src="{% if case-study.header-image %}{{ case-study.header-image }}{% else %}http://placehold.it/1000x600?text={{ case-study.title }}{% endif %}" alt="{{ case-study.title }}"></a></div>
         {% endfor %}
       </div>
       <div class="carousel-nav col-md-3">
