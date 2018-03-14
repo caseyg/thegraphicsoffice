@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<span id="typer" class="typer">
+  {% for typing in page.typings %}
+  {{ typing }}<br>
+  {% endfor %}
+</span>
+
 </div>
 
 <section id="casestudies" class="my-4">
@@ -14,14 +20,17 @@ layout: default
     <div class="carousel-container row">
       <div class="carousel carousel-main col-md-9">
         {% for case-study in site.case-study %}
-          <div class="carousel-cell"><a href="{{ case-study.url }}"><img src="http://placehold.it/1000x600?text={{ case-study.title }}" alt=""></a></div>
+          <div class="carousel-cell"><a href="{{ case-study.url }}"><img src="{% if case-study.header-image %}{{ case-study.header-image }}{% else %}http://placehold.it/1000x600?text={{ case-study.title }}{% endif %}" alt="{{ case-study.title }}"></a></div>
         {% endfor %}
       </div>
       <div class="carousel-nav col-md-3">
         {% for case-study in site.case-study %}
           <div class="carousel-cell {% if forloop.first %}is-nav-selected{% endif %}">
             <h3>{{ case-study.title }}</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris efficitur erat risus, ac lacinia neque tincidunt bibendum. Duis non neque vel sapien commodo mattis.</p>
+            <div class="carousel-cell__content">
+              {% if case-study.description %}{{ case-study.description | markdownify }}{% endif %}
+              <small><a href="{{ case-study.url }}">Read more &rarr;</a></small>
+            </div>
             {% if forloop.last == false %}<hr>{% endif %}
           </div>
         {% endfor %}
@@ -58,7 +67,7 @@ layout: default
     {% for work in site.work limit:2 %}
     <div class="col-6 col-md-4">
       <a href="{{ work.url }}">
-        <img src="http://placehold.it/350x250?text={{ work.title }}" alt="">
+        <img src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/350x250?text={{ work.title }}{% endif %}" alt="{{ work.title }}">
         {{ work.title }}
       </a>
     </div>
