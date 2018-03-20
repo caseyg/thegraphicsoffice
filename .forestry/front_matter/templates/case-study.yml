@@ -1,0 +1,58 @@
+---
+pages:
+- _case-study/deep-dives.markdown
+- _case-study/creative-transformation.markdown
+- _case-study/finding-moments.markdown
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: header-image
+  label: Header image
+  type: file
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: sections
+  label: Sections
+  type: field_group_list
+  fields:
+  - name: image
+    label: Image
+    type: file
+    hidden: false
+    default: ''
+  - name: image_caption
+    label: Image caption
+    type: text
+    hidden: false
+    default: ''
+  - name: text
+    label: Text
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: case-study
