@@ -32,4 +32,4 @@ sections:
 
 When we recognize quality in something overlooked or relatively insignificant, we find it immensely satisfying to shape and share it in a contemporary form. Sometimes the impulse derives from a desire to reanimate history; sometimes from the need to add drama to a design. 
 
-##The line of alphabet prints we call “B. de B.” are sourced from a 19th-century scrapbook of children’s chapbook pages that we bought at an antiques fair. We combined images and letters from the album, supplemented the missing letters, and created a completely new set of prints. 
+The line of alphabet prints we call “B. de B.” are sourced from a 19th-century scrapbook of children’s chapbook pages that we bought at an antiques fair. We combined images and letters from the album, supplemented the missing letters, and created a completely new set of prints. 
