@@ -1,13 +1,19 @@
 ---
 layout: default
 ---
-
-<span id="typer" class="typer">
-  {% for typing in page.typings %}
-  {{ typing }}<br>
-  {% endfor %}
-</span>
-
+<div class="row">
+  <div class="col">
+    <a class="serif" href="/about"><em>Read more</em> &rarr;</a>
+  </div>
+  <div class="col typer">
+    The Graphics Office
+    <span id="typer">
+      {% for typing in page.typings %}
+      {{ typing }}<br>
+      {% endfor %}
+    </span>
+  </div>
+</div>
 </div>
 
 <section id="casestudies" class="my-4">
