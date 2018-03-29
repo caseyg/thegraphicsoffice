@@ -2,23 +2,30 @@
 layout: default
 ---
 
-<span id="typer" class="typer">
-  {% for typing in page.typings %}
-  {{ typing }}<br>
-  {% endfor %}
-</span>
-
+<div class="row">
+  <div class="col">
+    <a class="serif" href="/about"><em>Read more</em> &rarr;</a>
+  </div>
+  <div class="col typer">
+    The Graphics Office
+    <span id="typer">
+      {% for typing in page.typings %}
+      {{ typing }}<br>
+      {% endfor %}
+    </span>
+  </div>
+</div>
 </div>
 
 <section id="casestudies" class="my-4">
   <div class="container-fluid sans">
     <div class="container">
       <div class="row">
-        <h2 class="col-12"><a href="">Case Studies &rarr;</a></h2>
+        <h2 class="col"><a href="">Case Studies &rarr;</a></h2>
       </div>
     </div>
     <div class="carousel-container row">
-      <div class="carousel carousel-main col-md-9">
+      <div class="carousel carousel-main col-md-9 mb-4">
         {% for case-study in site.case-study %}
           <div class="carousel-cell"><a href="{{ case-study.url }}"><img src="{% if case-study.header-image %}{{ case-study.header-image }}{% else %}http://placehold.it/1000x600?text={{ case-study.title }}{% endif %}" alt="{{ case-study.title }}"></a></div>
         {% endfor %}

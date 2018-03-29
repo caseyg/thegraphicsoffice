@@ -10,15 +10,19 @@
   line-height: .8;
 }
 
-.nav--top__items {
-  position: absolute;
-    top: 5px;
-    left: 4.5em;
+@media(min-width:768px){
+  .nav--top__items {
+    position: absolute;
+      top: 5px;
+      left: 4.5em;
+  }
 }
 
 .typer {
   font-style: italic;
   color: teal;
+  display: block;
+  text-align: right;
 }
 
 .serif,
@@ -75,10 +79,8 @@ nav {
   line-height: 1.25;
 }
 
-nav a:link,
-nav a:visited,
-.services a:link,
-.services a:visited {
+a:link,
+a:visited {
   color: #000;
 }
 
@@ -128,4 +130,44 @@ img {
 
 footer #contact {
   min-height: 80vh;
+}
+
+
+.card-columns {
+  column-count: 2;
+}
+@media (min-width: 768px) {
+  .card-columns {
+    column-count: 3;
+  }
+}
+
+.section {
+  margin-bottom: 50px;
+}
+
+.section img {
+  margin: auto;
+  width: 100%;
+}
+
+figcaption {
+  font-style: italic;
+  color: gray;
+  margin-top: .5em;
+  text-align: center;
+}
+
+.page__title,
+.page__subtitle {
+  font-family: "mallory", sans-serif;
+  font-size: 2em;
+  text-align: center;
+}
+
+.page__title {
+  font-weight: 900;
+}
+.page__subtitle {
+  font-weight: lighter;
 }
