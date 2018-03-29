@@ -2,10 +2,11 @@
 <nav class="mb-4 nav--top" style="position:relative;">
   <a class="nav--top__logo {% if page.title == "Home" %}active{% endif %}" href="/">The <br>Graphics <br>Office{% if page.title == "Home"%}.{% else %}:{% endif %}</a>
   <ul class="list-inline nav--top__items">
+  {% assign collection = page.collection | capitalize %}
   {% for my_page in pages %}
     {% if my_page.position != null %}
       {% if my_page.title != "About" %}
-        <li class="list-inline-item"><a class="{% if page.title == my_page.title %}active {% endif %}pr-1" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}{% if my_page.title != "The" %}.{% endif %}</a></li>
+        <li class="list-inline-item"><a class="{% if page.title == my_page.title or collection == my_page.title %}active {% endif %}pr-1" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}{% if my_page.title != "The" %}.{% endif %}</a></li>
       {% endif %}
     {% endif %}
   {% endfor %}
