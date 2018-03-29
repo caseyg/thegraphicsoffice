@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="col-md-6 mb-4">
+    {% if page.image %}
+    <img src="{{ page.image }}">
+    {% endif %}
+  </div>
+  <div class="col-md-6">
+    <h1 class="page__title">{{ page.title }}</h1>
+    <h2 class="page__subtitle">{{ page.price }}</h2>
+    <hr>
+    {{ content }}
+    <hr>
+    <a class="btn btn-lg btn-outline-dark sans" href="{{ page.link }}">Purchase</a>
+  </div>
+</div>

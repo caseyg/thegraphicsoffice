@@ -2,10 +2,13 @@
 title: Purchase College School of the Arts
 date: 2015-03-05 16:05:21 -05:00
 thumb: "/uploads/purchase-thumb.jpg"
-roles:
-- Graphic Design
-- Image Research
-- Illustration
+meta:
+  client: 
+  year: 
+  roles:
+  - Graphic Design
+  - Image Research
+  - Illustration
 ---
 
 We work with Purchase College School of the Arts to create much of the print materials for their theater, dance and music performances. First we designed a series of marks to distinguish each of the School’s conservatories and conceive a visual theme each performance season. The posters and playbills require a fast turnaround with little budget for art. We manipulate found images and items from our personal collections. We’ve also designed for Purchase College's <a title="Purchase College" href="/portfolio/purchase-college/">exhibitions, lectures, and Portfolio Day</a>.

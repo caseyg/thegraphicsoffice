@@ -35,6 +35,11 @@ defaults:
     path: ''
     type: shop
   values:
+    layout: page-shop
+- scope:
+    path: ''
+    type: research
+  values:
     layout: page
 email: desk@thegraphicsoffice.com
 description: TKTKTK
@@ -44,6 +49,7 @@ markdown: kramdown
 plugins:
 - jekyll-feed
 - jekyll-default-layout
+- jekyll-redirect-from
 permalink: pretty
 exclude:
 - node_modules

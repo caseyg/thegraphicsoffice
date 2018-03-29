@@ -3,12 +3,18 @@ layout: default
 ---
 
 <section id="selected-projects">
+  <div class="row">
+    <div class="serif h2 col-md-8" style="margin: 50px 0;">{{ content }}</div>
+  </div>
+
+  <hr>
+
   <h2>Selected Projects</h2>
-  <div class="card-columns">
-    {% for work in site.work %}
-      <div class="card p-3 text-center sans">
+  <div class="row">
+    {% for work in site.work limit:3 %}
+      <div class="col-4 card p-3 text-center sans">
         <a href="{{ work.url }}">
-          <img class="card-img-top" src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/400x400{% endif %}" alt="{{ work.title }}">
+          <img class="card-img-top"  style="max-height: 342px; width:auto; margin:auto;" src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/400x400{% endif %}" alt="{{ work.title }}">
           <h5 class="card-title mt-2"><strong>{{ work.title }}</strong></h5>
         </a>
       </div>
@@ -16,22 +22,14 @@ layout: default
   </div>
 </section>
 
-<h1 class="serif text-center h2 pb-3" style="max-width:800px;margin: auto;">{{ content }}</h1>
-
-
 <hr>
 
-<p class="text-center sans"><a href="/work/archived">See all projects &rarr;</a></p>
+<p class="sans"><a href="/work/archive">See all projects &rarr;</a></p>
 
 <hr>
 
 <section id="browse" class="sans">
-  <h2>Browse Projects by...</h2>
   <div class="row">
-    <div class="col-3">
-      <h3><a href="">Chronology &rarr;</a></h3>
-      <h3><a href="">Client &rarr;</a></h3>
-    </div>
     <div class="col-6">
       <h3>Services</h3>
       <div class="row">
@@ -57,7 +55,7 @@ layout: default
         </div>
       </div>
     </div>
-    <div class="col-3">
+    <div class="col-3 offset-2">
       <h3>Subject Matter</h3>
       <ul>
         <li><a href="">Museum</a></li>
@@ -68,6 +66,17 @@ layout: default
   </div>
 </section>
 
-<section id="casestudies">
+<hr>
 
+<section id="casestudies">
+  <h2>Case Studies</h2>
+  <div class="row">
+    {% for case-study in site.case-study %}
+      <div class="col">
+        <a href="{{ case-study.url }}">
+          <img src="{% if case-study.header-image %}{{ case-study.header-image }}{% else %}http://placehold.it/1000x600?text={{ case-study.title }}{% endif %}" alt="{{ case-study.title }}">
+        </a>
+      </div>
+    {% endfor %}
+  </div>
 </section>

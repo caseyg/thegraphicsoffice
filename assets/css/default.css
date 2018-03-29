@@ -3,18 +3,27 @@
   color: gray;
 }
 
-.nav--top__logo {
+#home .nav--top__logo {
   font-size: 42px;
   padding-top: 50px;
   padding-bottom: 50px;
   line-height: .8;
 }
 
+nav {
+  line-height: 1!important;
+}
+
 @media(min-width:768px){
+  #home .nav--top__items {
+    position: absolute;
+    top: 76px;
+    left: 7.5em;
+  }
   .nav--top__items {
     position: absolute;
-      top: 5px;
-      left: 4.5em;
+      top: 44px;
+      left: 4em;
   }
 }
 
@@ -40,11 +49,6 @@ nav {
 
 .sans strong {
   font-weight: bold;
-}
-
-footer a:link,
-footer a:visited {
-  color: #fff;
 }
 
 #selected-projects a:link,
@@ -124,12 +128,17 @@ img {
   border-radius: 0;
 }
 
+.card a:link,
+.card a:visited {
+  display: block;
+}
+
 .services div {
   line-height: 1;
 }
 
 footer #contact {
-  min-height: 80vh;
+  min-height: 30vh;
 }
 
 
@@ -162,7 +171,6 @@ figcaption {
 .page__subtitle {
   font-family: "mallory", sans-serif;
   font-size: 2em;
-  text-align: center;
 }
 
 .page__title {
@@ -170,4 +178,29 @@ figcaption {
 }
 .page__subtitle {
   font-weight: lighter;
+}
+
+.arena-iframe {
+  min-height: 100vh;
+  width: 100%;
+  border: none;
+}
+
+.btn-link {
+  padding: 0;
+  color: #000;
+  display: inline!important;
+}
+.btn-link:hover {
+  color: gray;
+}
+
+blockquote {
+  color: gray;
+  border-left: 2px solid lightgray;
+  padding-left: 1em;
+}
+
+strong {
+  font-weight: 900;
 }

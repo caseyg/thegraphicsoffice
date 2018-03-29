@@ -5,7 +5,7 @@ subtitle: The After-Life of a Poet
 thumb: "/uploads/shelley-thumb.jpg"
 meta:
   client: New York Public Library
-  year: '2012'
+  year: 2012
   roles:
   - Exhibition Design
   - Graphic Design
