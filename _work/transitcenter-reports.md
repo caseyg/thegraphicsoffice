@@ -3,8 +3,8 @@ title: TransitCenter Reports
 date: 2015-03-05 16:22:31 -05:00
 thumb: "/uploads/transit-thumb.jpg"
 meta:
-  client:
-  year:
+  client: 
+  year: 
   roles:
   - Graphic Design
   - Information Graphics

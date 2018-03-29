@@ -3,8 +3,8 @@ title: Purchase College School of the Arts
 date: 2015-03-05 16:05:21 -05:00
 thumb: "/uploads/purchase-thumb.jpg"
 meta:
-  client:
-  year:
+  client: 
+  year: 
   roles:
   - Graphic Design
   - Image Research
