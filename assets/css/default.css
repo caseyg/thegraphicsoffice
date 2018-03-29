@@ -51,11 +51,6 @@ nav {
   font-weight: bold;
 }
 
-footer a:link,
-footer a:visited {
-  color: #fff;
-}
-
 #selected-projects a:link,
 #selected-projects a:visited {
   color: #222;
@@ -143,7 +138,7 @@ img {
 }
 
 footer #contact {
-  min-height: 80vh;
+  min-height: 30vh;
 }
 
 
