@@ -43,12 +43,13 @@ defaults:
     layout: page
 email: desk@thegraphicsoffice.com
 description: TKTKTK
-baseurl: 
-url: 
+baseurl:
+url:
 markdown: kramdown
 plugins:
 - jekyll-feed
 - jekyll-default-layout
+- jekyll-redirect-from
 permalink: pretty
 exclude:
 - node_modules
