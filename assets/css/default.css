@@ -194,7 +194,7 @@ figcaption {
 .btn-link {
   padding: 0;
   color: #000;
-  display: inline;
+  display: inline!important;
 }
 .btn-link:hover {
   color: gray;

@@ -5,25 +5,25 @@ layout: default
 <h1 class="serif text-center h2 pb-3" style="max-width:800px;margin: auto;">{{ content }}</h1>
 
 <div class="row">
-  <section id="browse" class="sans col-4">
-    <h2>Browse Projects by...</h2>
+  <section id="browse" class="sans col-md-3">
+    <h2>Filter projects by...</h2>
     <ul class="button-group filter-button-group">
-      <button class="btn btn-link" data-filter="*">show all</button>
+      <li><button class="btn btn-link" data-filter="*">All projects</button></li>
     </ul>
-    <h3>Services</h3>
+    <h2>Services</h2>
     <ul class="button-group filter-button-group">
     {% for role in page.role %}
       <li><button class="btn btn-link" data-filter=".{{ role | slugify | lowercase}}">{{ role }}</button></li>
     {% endfor %}
     </ul>
-    <h3>Subject Matter</h3>
+    <h2>Subject Matter</h2>
     <ul class="button-group filter-button-group">
       {% for subject-matter in page.subject-matter %}
         <li><button class="btn btn-link" data-filter=".{{ subject-matter | slugify | lowercase}}">{{ subject-matter }}</button></li>
       {% endfor %}
     </ul>
   </section>
-  <section id="selected-projects" class="col-8">
+  <section id="selected-projects" class="col-md-9">
     <h2>Selected Projects</h2>
     <div class="grid">
       {% for work in site.work %}
