@@ -31,10 +31,6 @@ sections:
   image_caption: 
   text: 
   layout: 
-- image: "/uploads/005Shelley-bf5330.jpg"
-  image_caption: 
-  text: 
-  layout: 
 - image: "/uploads/006Shelley.jpg"
   image_caption: 
   text: 
