@@ -38,8 +38,8 @@ defaults:
     layout: page-shop
 email: desk@thegraphicsoffice.com
 description: TKTKTK
-baseurl:
-url:
+baseurl: 
+url: 
 markdown: kramdown
 plugins:
 - jekyll-feed
