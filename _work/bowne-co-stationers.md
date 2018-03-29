@@ -3,8 +3,8 @@ title: Bowne & Co., Stationers
 date: 2012-10-16 13:11:57 -04:00
 thumb: "/uploads/bowne-thumb.jpg"
 meta:
-  client:
-  year:
+  client: 
+  year: 
   roles:
   - Graphic Design
   - Identity

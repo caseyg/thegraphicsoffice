@@ -3,8 +3,8 @@ title: Dead Sexy
 date: 2012-10-16 13:15:00 -04:00
 thumb: "/uploads/deadsexy-thumb-4aea15.jpg"
 meta:
-  client:
-  year:
+  client: 
+  year: 
   roles:
   - Graphic Design
   - Writing

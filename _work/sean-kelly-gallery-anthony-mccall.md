@@ -3,8 +3,8 @@ title: Sean Kelly Gallery / Anthony McCall
 date: 2014-02-24 16:51:55 -05:00
 thumb: "/uploads/mccall-thumb.jpg"
 meta:
-  client:
-  year:
+  client: 
+  year: 
   roles:
   - Graphic Design
 ---
