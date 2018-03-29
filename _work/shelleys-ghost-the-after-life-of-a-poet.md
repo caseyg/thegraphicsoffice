@@ -1,5 +1,5 @@
 ---
-title: 'Shelley’s Ghost: The After-Life of a Poet'
+title: Shelley’s Ghost
 date: 2012-10-16 11:25:00 -04:00
 subtitle: The After-Life of a Poet
 thumb: "/uploads/shelley-thumb.jpg"
