@@ -22,35 +22,40 @@ sections:
 - image: "/uploads/003Shelley.jpg"
   image_caption: 
   text: 
-  layout: 
+  layout: full
 - image: "/uploads/004Shelley.jpg"
   image_caption: 
   text: 
-  layout: 
+  layout: center
 - image: "/uploads/005Shelley.jpg"
-  image_caption: 
-  text: 
-  layout: 
+  image_caption: Photograph by Herb Scher.
+  text: This window installation incorporated an early 19th-century watercolor view
+    of Lake Geneva which was back-lit and framed by period styled velvet drapery.
+    On either side were large backdrops of Shelley’s funeral pyre and a Romantic landscape.
+  layout: full
 - image: "/uploads/006Shelley.jpg"
-  image_caption: 
+  image_caption: Text panels were made of layers of digital prints of foxed paper
+    with hand-torn edges, applied to board wrapped in marbled paper.
   text: 
-  layout: 
+  layout: center
 - image: "/uploads/007Shelley.jpg"
   image_caption: 
   text: 
-  layout: 
+  layout: center
 - image: "/uploads/008Shelley.jpg"
   image_caption: 
-  text: 
-  layout: 
+  text: Illustrations of Shelley and his circle were commissioned when it became clear
+    that available imagery of the group varied tremendously in style and quality.
+  layout: left
 - image: "/uploads/009-011ShelleyrevAV.jpg"
-  image_caption: 
+  image_caption: A watercolor silhouette created for Shelley’s first wife, a suicide
+    by drowning; Lord Byron and his daughter Allegra
   text: 
-  layout: 
+  layout: center
 - image: "/uploads/010Shelley.jpg"
-  image_caption: 
+  image_caption: A commissioned hand-cut silhouette affixed with a 19th-century clip.
   text: 
-  layout: 
+  layout: full
 ---
 
 _Shelley’s Ghost_ (Spring 2012) brought together objects from the New York Public Library’s Pforzheimer Collection, one of the world’s premiere holdings of material related to Romantic poet Percy Bysshe Shelley, and the Bodleian Library at Oxford, England.
