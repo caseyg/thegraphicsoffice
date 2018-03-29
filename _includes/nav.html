@@ -1,6 +1,6 @@
 {% assign pages = site.pages | sort:"position" %}
 <nav class="mb-4 nav--top" style="position:relative;">
-  <a class="nav--top__logo active" href="/">The <br>Graphics <br>Office.</a>
+  <a class="nav--top__logo {% if page.title == "Home" %}active{% endif %}" href="/">The <br>Graphics <br>Office{% if page.title == "Home"%}.{% else %}:{% endif %}</a>
   <ul class="list-inline nav--top__items">
   {% for my_page in pages %}
     {% if my_page.position != null %}

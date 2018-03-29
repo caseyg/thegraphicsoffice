@@ -3,18 +3,27 @@
   color: gray;
 }
 
-.nav--top__logo {
+#home .nav--top__logo {
   font-size: 42px;
   padding-top: 50px;
   padding-bottom: 50px;
   line-height: .8;
 }
 
+nav {
+  line-height: 1!important;
+}
+
 @media(min-width:768px){
+  #home .nav--top__items {
+    position: absolute;
+    top: 76px;
+    left: 7.5em;
+  }
   .nav--top__items {
     position: absolute;
-      top: 5px;
-      left: 4.5em;
+      top: 44px;
+      left: 4em;
   }
 }
 
