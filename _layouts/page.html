@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h1 class="page__title">{{ page.title }}</h1>
-{% if page.subtitle %}<h2 class="page__subtitle">{{ page.subtitle }}</h2>{% endif %}
+<h1 class="page__title text-center" style="margin-top: 50px;">{{ page.title }}</h1>
+{% if page.subtitle %}<h2 class="page__subtitle text-center">{{ page.subtitle }}</h2>{% endif %}
 
-<div class="row">
+<div class="row" style="margin-top: 50px;">
   <div class="col-md-8 offset-md-2">
     <div class="lead">
       {{ content }}
@@ -18,7 +18,7 @@ layout: default
 </div>
 <div class="row">
   {% if page.meta %}
-  <div class="col-md-6 offset-md-3 border sans py-2 pt-3 my-2">
+  <div class="col-md-6 offset-md-3 border sans py-2 pt-3"  style="margin: 50px auto;">
     <div class="row">
       <div class="col">
         <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Client</strong></h2>
