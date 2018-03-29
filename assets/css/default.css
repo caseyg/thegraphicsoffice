@@ -171,3 +171,9 @@ figcaption {
 .page__subtitle {
   font-weight: lighter;
 }
+
+.arena-iframe {
+  min-height: 100vh;
+  width: 100%;
+  border: none;
+}
