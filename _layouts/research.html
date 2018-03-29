@@ -1,66 +1,74 @@
 ---
 layout: default
 ---
-<hr>
-<section id="research" class="row pt-3">
-  <section id="talks" class="col-md-6 col-lg-4">
-    <h2><a href="">Talks &rarr;</a></h2>
-    {% assign talks = site.research | where: "categories","talks" %}
-    {% for talk in talks limit:1 %}
-    <a href="{{ talk.url }}">
-      <img src="{{ talk.image }}" alt="">
-      <p class="mt-2">{{ talk.title }}</p>
-    </a>
-    {% endfor %}
-  </section>
-  <section id="essays" class="col-md-6 col-lg-4">
-    <h2><a href="">Essays &amp; Articles &rarr;</a></h2>
-    <ul class="list-unstyled">
-      <li class="media">
-        <div class="media-body">
-          <a href="">
-            <h5 class="mt-0 mb-1">List-based media object</h5>
-            Cras sit amet nibh libero, in gravida nulla.
-          </a>
-        </div>
-      </li>
-      <li class="media my-3">
-        <div class="media-body">
-          <a href="">
-            <h5 class="mt-0 mb-1">List-based media object</h5>
-            Nulla vel metus scelerisque ante sollicitudin.
-          </a>
-        </div>
-      </li>
-      <li class="media">
-        <div class="media-body">
-          <a href="">
-            <h5 class="mt-0 mb-1">List-based media object</h5>
-            Fusce condimentum nunc ac nisi vulputate fringilla.
-          </a>
-        </div>
-      </li>
-    </ul>
-  </section>
-  <section id="books" class="col-md-6 col-lg-4">
-    <h2><a href="/shop#books">Books &rarr;</a></h2>
-    {% assign books = site.shop | where: "categories","Books" %}
-    <div class="row">
-      {% for item in books limit:2 %}
-      <a href="{{ item.url }}" class="col-6">
-        <img src="{{ item.image }}" alt="">
-        <p class="mt-2">{{ item.title }}</p>
+</div>
+<div class="container-fluid py-3" style="background: #eee;">
+<div class="container">
+  <div class="row">
+    <div class="serif h2 col-md-8" style="margin: 50px 0 100px 0;">{{ content }}</div>
+  </div>
+  <section id="research" class="row pt-3">
+    <section id="talks" class="col-md-6 col-lg-4">
+      <h2><a href="">Talks &rarr;</a></h2>
+      {% assign talks = site.research | where: "categories","talks" %}
+      {% for talk in talks limit:1 %}
+      <a href="{{ talk.url }}">
+        <img src="{{ talk.image }}" alt="">
+        <p class="mt-2">{{ talk.title }}</p>
       </a>
       {% endfor %}
-    </div>
+    </section>
+    <section id="essays" class="col-md-6 col-lg-4">
+      <h2><a href="">Essays &amp; Articles &rarr;</a></h2>
+      <ul class="list-unstyled">
+        <li class="media">
+          <div class="media-body">
+            <a href="">
+              <h5 class="mt-0 mb-1">List-based media object</h5>
+              Cras sit amet nibh libero, in gravida nulla.
+            </a>
+          </div>
+        </li>
+        <li class="media my-3">
+          <div class="media-body">
+            <a href="">
+              <h5 class="mt-0 mb-1">List-based media object</h5>
+              Nulla vel metus scelerisque ante sollicitudin.
+            </a>
+          </div>
+        </li>
+        <li class="media">
+          <div class="media-body">
+            <a href="">
+              <h5 class="mt-0 mb-1">List-based media object</h5>
+              Fusce condimentum nunc ac nisi vulputate fringilla.
+            </a>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section id="books" class="col-md-6 col-lg-4">
+      <h2><a href="/shop#books">Books &rarr;</a></h2>
+      {% assign books = site.shop | where: "categories","Books" %}
+      <div class="row">
+        {% for item in books limit:2 %}
+        <a href="{{ item.url }}" class="col-6">
+          <img src="{{ item.image }}" alt="">
+          <p class="mt-2">{{ item.title }}</p>
+        </a>
+        {% endfor %}
+      </div>
+    </section>
   </section>
-</section>
+</div>
 </div>
 
-<div class="container-fluid py-3" style="background: #eee;">
+<div class="container-fluid py-3">
   <section id="feeds">
     <div class="container">
-      <div class="serif h2 col-md-8" style="margin: 50px 0 100px 0;">{{ content }}</div>
+      <div class="serif h2 col-md-8" style="margin: 50px 0 100px 0;">
+      <p><sup>Follow along with our visual research, here</sup> <small>⤵︎</small></p>
+      </div>
     </div>
     <div class="row">
       <section id="doug" class="col-6">
