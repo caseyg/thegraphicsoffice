@@ -1,6 +1,7 @@
 ---
 title: 'Shelley’s Ghost: The After-Life of a Poet'
 date: 2012-10-16 11:25:00 -04:00
+subtitle: The After-Life of a Poet
 thumb: "/uploads/shelley-thumb.jpg"
 roles:
 - Exhibition Design
@@ -56,7 +57,6 @@ sections:
   image_caption: A commissioned hand-cut silhouette affixed with a 19th-century clip.
   text: 
   layout: full
-subtitle: The After-Life of a Poet
 ---
 
 _Shelley’s Ghost_ (Spring 2012) brought together objects from the New York Public Library’s Pforzheimer Collection, one of the world’s premiere holdings of material related to Romantic poet Percy Bysshe Shelley, and the Bodleian Library at Oxford, England.
