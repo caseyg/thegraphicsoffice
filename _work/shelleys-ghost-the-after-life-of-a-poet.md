@@ -1,11 +1,13 @@
 ---
 title: Shelley’s Ghost
 date: 2012-10-16 11:25:00 -04:00
+tags:
+- Exhibition Design
 subtitle: The After-Life of a Poet
 thumb: "/uploads/shelley-thumb.jpg"
 meta:
   client: New York Public Library
-  year: '2012'
+  year: 2012
   roles:
   - Exhibition Design
   - Graphic Design
