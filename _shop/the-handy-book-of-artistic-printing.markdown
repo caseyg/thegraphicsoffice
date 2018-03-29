@@ -1,6 +1,8 @@
 ---
 title: The Handy Book of Artistic Printing
 date: 2018-03-04 12:04:00 -05:00
+categories:
+- Books
 position: 0
 image: "/uploads/artisticprinting.jpg"
 price: "$12"
