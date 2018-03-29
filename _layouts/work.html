@@ -3,21 +3,23 @@ layout: default
 ---
 
 <section id="selected-projects">
+
+  <h1 class="serif text-center h2 pb-3" style="max-width:800px;margin: auto;">{{ content }}</h1>
+
+  <hr>
+
   <h2>Selected Projects</h2>
-  <div class="card-columns">
-    {% for work in site.work %}
-      <div class="card p-3 text-center sans">
+  <div class="row">
+    {% for work in site.work limit:3 %}
+      <div class="col-4 card p-3 text-center sans">
         <a href="{{ work.url }}">
-          <img class="card-img-top" src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/400x400{% endif %}" alt="{{ work.title }}">
+          <img class="card-img-top"  style="max-height: 342px; width:auto; margin:auto;" src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/400x400{% endif %}" alt="{{ work.title }}">
           <h5 class="card-title mt-2"><strong>{{ work.title }}</strong></h5>
         </a>
       </div>
     {% endfor %}
   </div>
 </section>
-
-<h1 class="serif text-center h2 pb-3" style="max-width:800px;margin: auto;">{{ content }}</h1>
-
 
 <hr>
 
@@ -68,6 +70,17 @@ layout: default
   </div>
 </section>
 
-<section id="casestudies">
+<hr>
 
+<section id="casestudies">
+  <h2>Case Studies</h2>
+  <div class="row">
+    {% for case-study in site.case-study %}
+      <div class="col">
+        <a href="{{ case-study.url }}">
+          <img src="{% if case-study.header-image %}{{ case-study.header-image }}{% else %}http://placehold.it/1000x600?text={{ case-study.title }}{% endif %}" alt="{{ case-study.title }}">
+        </a>
+      </div>
+    {% endfor %}
+  </div>
 </section>
