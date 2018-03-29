@@ -2,25 +2,95 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<h1 class="page__title">{{ page.title }}</h1>
+{% if page.subtitle %}<h2 class="page__subtitle">{{ page.subtitle }}</h2>{% endif %}
 
 <div class="row">
-  <div class="col-8">
-    {{ content }}
+  <div class="col-md-8 offset-md-2">
+    <div class="lead">
+      {{ content }}
+    </div>
 
     {% if page.image %}
     <img src="{{ page.image }}">
     {% endif %}
   </div>
-  {% if page.roles %}
-  <div class="col-3 offset-1 border sans py-2 pt-3 mt-2">
-    <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Our Work</strong></h2>
-    <ul>
-      {% for role in page.roles %}
-      <li>{{ role }}</li>
-      {% endfor %}
-    </ul>
+</div>
+<div class="row">
+  {% if page.meta %}
+  <div class="col-md-6 offset-md-3 border sans py-2 pt-3 my-2">
+    <div class="row">
+      <div class="col">
+        <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Client</strong></h2>
+        <p>{{ page.meta.client }}</p>
+        <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Date</strong></h2>
+        <p>{{ page.meta.year }}</p>
+      </div>
+      <div class="col">
+        <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Services</strong></h2>
+        <ul>
+          {% for role in page.meta.roles %}
+          <li>{{ role }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
   </div>
   {% endif %}
 
+  {% if page.sections %}
+    <section class="sections">
+    {% for section in page.sections %}
+      {% if section.layout == "left" %}
+        <div class="row section section--left">
+          <div class="col-12 col-md-6">
+            <figure>
+              <img src="{{ section.image }}" alt="{{ section.image_caption }}" class="mb-2">
+              <figcaption>{{ section.image_caption }}</figcaption>
+            </figure>
+          </div>
+          <div class="col-12 col-md-6">
+            {{ section.text | markdownify }}
+          </div>
+        </div>
+      {% elsif section.layout == "right" %}
+        <div class="row section section--right">
+          <div class="col-12 col-md-6">
+            {{ section.text | markdownify }}
+          </div>
+          <div class="col-12 col-md-6">
+            <figure>
+              <img src="{{ section.image }}" alt="{{ section.image_caption }}" class="mb-2">
+              <figcaption>{{ section.image_caption }}</figcaption>
+            </figure>
+          </div>
+        </div>
+      {% elsif section.layout == "full" %}
+      <div class="row section section--full">
+        <div class="col-12">
+          <figure>
+            <img src="{{ section.image }}" alt="{{ section.image_caption }}" class="mb-2">
+            <figcaption>{{ section.image_caption }}</figcaption>
+          </figure>
+        </div>
+        <div class="col-12">
+          {{ section.text | markdownify }}
+        </div>
+      </div>
+      {% else %}
+        <div class="row section section--center">
+          <div class="col-md-8 offset-md-2">
+            <figure>
+              <img src="{{ section.image }}" alt="{{ section.image_caption }}">
+              <figcaption>{{ section.image_caption }}</figcaption>
+            </figure>
+          </div>
+          <div class="col-md-8 offset-md-2">
+            {{ section.text | markdownify }}
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+    </section>
+  {% endif %}
 </div>

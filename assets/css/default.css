@@ -138,6 +138,36 @@ footer #contact {
 }
 @media (min-width: 768px) {
   .card-columns {
-    column-count: 3;    
+    column-count: 3;
   }
+}
+
+.section {
+  margin-bottom: 50px;
+}
+
+.section img {
+  margin: auto;
+  width: 100%;
+}
+
+figcaption {
+  font-style: italic;
+  color: gray;
+  margin-top: .5em;
+  text-align: center;
+}
+
+.page__title,
+.page__subtitle {
+  font-family: "mallory", sans-serif;
+  font-size: 2em;
+  text-align: center;
+}
+
+.page__title {
+  font-weight: 900;
+}
+.page__subtitle {
+  font-weight: lighter;
 }
