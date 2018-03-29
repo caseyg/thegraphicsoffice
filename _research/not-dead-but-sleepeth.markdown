@@ -2,6 +2,7 @@
 title: Not Dead But Sleepeth
 date: 2018-03-29 11:53:00 -04:00
 subtitle: A Study of Gravestone Lettering with Doug Clouse
+image: "/uploads/coopertype-blue.jpg"
 ---
 
 <iframe src="https://player.vimeo.com/video/123201452?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
