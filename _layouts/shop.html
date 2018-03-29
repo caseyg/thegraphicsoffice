@@ -14,11 +14,11 @@ layout: default
     <h2>Prints</h2>
     <div class="row">
         {% assign prints = site.shop | where: "categories","Prints" %}
-        {% for print in prints %}
+        {% for item in prints %}
             <div class="col-6 col-md-4">
-                <a href="{{ print.url }}">
-                    <img src="{{ print.image }}" alt="{{ print.title }}">
-                    {{ print.title }}
+                <a href="{{ item.url }}">
+                    <img src="{{ item.image }}" alt="{{ item.title }}">
+                    {{ item.title }}
                 </a>
             </div>
         {% endfor %}
@@ -30,4 +30,15 @@ layout: default
 
 <section id="books">
     <h2>Books</h2>
+    <div class="row">
+      {% assign books = site.shop | where: "categories","Books" %}
+      {% for item in books %}
+          <div class="col-6 col-md-3">
+              <a href="{{ item.url }}">
+                  <img src="{{ item.image }}" alt="{{ item.title }}">
+                  {{ item.title }}
+              </a>
+          </div>
+      {% endfor %}
+    </div>
 </section>
