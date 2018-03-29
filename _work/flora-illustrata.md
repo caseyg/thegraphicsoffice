@@ -2,10 +2,15 @@
 title: Flora Illustrata
 date: 2015-03-05 16:12:14 -05:00
 thumb: "/uploads/flora-thumb.jpg"
+meta:
+  client:
+  year:
+  roles:
+  - Exhibition Design
+  - Graphic Design
 ---
 
 <h1 class="p1">Flora Illustrata</h1>
-<h3 class="p2">EXHIBITION DESIGN | GRAPHIC DESIGN |</h3>
 <p class="p2">For an exhibition of valuable and important botanical works at The New York Botanical Garden, we chose a very dark gray for the gallery walls to create dramatic contrast to the books and prints. The title typography and signature image came from an accompanying catalog previously designed by Charles Nix. Probably the most fun was seeing the large digital prints go up: two wall-sized book details in the gallery and four details of color flower prints in the rotunda outside the gallery. Installation photography by Ivo M. Vermeulen. (See our <a title="Groundbreakers" href="/portfolio/groundbreakers/"><span class="s1">other work</span></a> for the Garden)
 
 

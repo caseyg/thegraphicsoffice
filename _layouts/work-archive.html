@@ -7,45 +7,27 @@ layout: default
 <div class="row">
   <section id="browse" class="sans col-4">
     <h2>Browse Projects by...</h2>
-    <h3><a href="">Chronology &rarr;</a></h3>
-    <h3><a href="">Client &rarr;</a></h3>
+    <ul class="button-group filter-button-group">
+      <button class="btn btn-link" data-filter="*">show all</button>
+    </ul>
     <h3>Services</h3>
-    <ul>
-      <li><a href="">Graphic Design</a></li>
-      <li><a href="">Image Research</a></li>
-      <li><a href="">Exhibition Design</a></li>
-      <li><a href="">Book Design</a></li>
-      <li><a href="">Identity</a></li>
-      <li><a href="">Illustration</a></li>
-      <li><a href="">Web Design</a></li>
-      <li><a href="">Product Development</a></li>
-      <li><a href="">Printing</a></li>
-      <li><a href="">Map Making</a></li>
-      <li><a href="">Information Graphics</a></li>
-      <li><a href="">Editing</a></li>
+    <ul class="button-group filter-button-group">
+    {% for role in page.role %}
+      <li><button class="btn btn-link" data-filter=".{{ role | slugify | lowercase}}">{{ role }}</button></li>
+    {% endfor %}
     </ul>
     <h3>Subject Matter</h3>
-    <ul>
-      <li><a href="">Museum</a></li>
-      <li><a href="">Archive</a></li>
-      <li><a href="">Garden</a></li>
+    <ul class="button-group filter-button-group">
+      {% for subject-matter in page.subject-matter %}
+        <li><button class="btn btn-link" data-filter=".{{ subject-matter | slugify | lowercase}}">{{ subject-matter }}</button></li>
+      {% endfor %}
     </ul>
-    <div class="button-group filter-button-group">
-      <button class="button is-checked" data-filter="*">show all</button>
-      <button class="button" data-filter=".graphic-design">metal</button>
-      <button class="button" data-filter=".transition">transition</button>
-      <button class="button" data-filter=".alkali, .alkaline-earth">alkali and alkaline-earth</button>
-      <button class="button" data-filter=":not(.transition)">not transition</button>
-      <button class="button" data-filter=".metal:not(.transition)">metal but not transition</button>
-      <button class="button" data-filter="numberGreaterThan50">number > 50</button>
-      <button class="button" data-filter="ium">name ends with &ndash;ium</button>
-    </div>
   </section>
   <section id="selected-projects" class="col-8">
     <h2>Selected Projects</h2>
-    <div class="grid" data-isotope='{ "itemSelector": ".card", "layoutMode": "fitRows" }'>
+    <div class="grid">
       {% for work in site.work %}
-        <div class="card p-3 text-center sans {% for role in work.meta.roles %} {{ role | slugify | lowercase }}{% endfor %}">
+        <div class="col-md-4 card p-3 text-center sans {% for role in work.meta.roles %} {{ role | slugify | lowercase }}{% endfor %}">
           <a href="{{ work.url }}">
             <img class="card-img-top" src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/400x400{% endif %}" alt="{{ work.title }}">
             <h5 class="card-title mt-2"><strong>{{ work.title }}</strong></h5>
@@ -101,14 +83,14 @@ function onHashchange() {
   // filter isotope
   $grid.isotope({
     itemSelector: '.card',
-    layoutMode: 'fitRows',
+    layoutMode: 'masonry',
     // use filterFns
     filter: filterFns[ hashFilter ] || hashFilter
   });
   // set selected class on button
   if ( hashFilter ) {
-    $filterButtonGroup.find('.is-checked').removeClass('is-checked');
-    $filterButtonGroup.find('[data-filter="' + hashFilter + '"]').addClass('is-checked');
+    $filterButtonGroup.find('.active').removeClass('active');
+    $filterButtonGroup.find('[data-filter="' + hashFilter + '"]').addClass('active');
   }
 }
 

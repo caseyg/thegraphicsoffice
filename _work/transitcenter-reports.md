@@ -3,20 +3,15 @@ title: TransitCenter Reports
 date: 2015-03-05 16:22:31 -05:00
 thumb: "/uploads/transit-thumb.jpg"
 meta:
-  _edit_last: '6'
-  _thumbnail_id: '1373'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adcSTUDIO admin
-  email: admin@adcstudio.com
-  display_name: admin adcSTUDIO
-  first_name: admin
-  last_name: adcSTUDIO
+  client:
+  year:
+  roles:
+  - Graphic Design
+  - Information Graphics
+  - Image Research
 ---
 
 <h1 class="p1">TransitCenter Reports</h1>
-<h3 class="p2">GRAPHIC DESIGN | INFORMATION GRAPHICS | IMAGE RESEARCH</h3>
 <p class="p2">TransitCenter, a dynamic new alternative transportation non-profit, originates transit projects, provides funding and is an active player in advocacy. We design their<span class="Apple-converted-space">  </span>reports— detailed studies of controversial transportation issues— and conceive all the information graphics. (See our <a title="Transit Center" href="/portfolio/transit-center/"><span class="s1">identity and web work</span></a> for them, too.)
 
 
