@@ -205,3 +205,7 @@ blockquote {
   border-left: 2px solid lightgray;
   padding-left: 1em;
 }
+
+strong {
+  font-weight: 900;
+}
