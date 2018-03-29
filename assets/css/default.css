@@ -176,7 +176,6 @@ figcaption {
 .page__subtitle {
   font-family: "mallory", sans-serif;
   font-size: 2em;
-  text-align: center;
 }
 
 .page__title {
@@ -199,4 +198,10 @@ figcaption {
 }
 .btn-link:hover {
   color: gray;
+}
+
+blockquote {
+  color: gray;
+  border-left: 2px solid lightgray;
+  padding-left: 1em;
 }
