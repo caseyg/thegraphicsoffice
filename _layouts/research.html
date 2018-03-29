@@ -48,14 +48,15 @@ layout: default
     </ul>
   </section>
   <section id="books" class="col-md-6 col-lg-4">
-    <h2><a href="">Books &rarr;</a></h2>
+    <h2><a href="/shop#books">Books &rarr;</a></h2>
+    {% assign books = site.shop | where: "categories","Books" %}
     <div class="row">
-      <div class="col-6">
-        <img src="/uploads/artisticprinting.jpg" alt="">
-      </div>
-      <div class="col-6">
-        <img src="/uploads/mackellar.jpg" alt="">
-      </div>
+      {% for item in books limit:2 %}
+      <a href="{{ item.url }}" class="col-6">
+        <img src="{{ item.image }}" alt="">
+        <p class="mt-2">{{ item.title }}</p>
+      </a>
+      {% endfor %}
     </div>
   </section>
 </section>
