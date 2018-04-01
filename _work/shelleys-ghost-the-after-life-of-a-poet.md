@@ -16,12 +16,11 @@ sections:
   image_caption: The entrance treatment was a departure from the Library's typical
     digital mural. The figurative tree was laser-cut fabric on mesh. The show’s title
     was handpainted with silver leaf. Photograph by Herb Scher.
-  text: We were asked to create something “theatrical.” Collaborating closely with
-    exhibition designer Barbara Suhr, we worked on every aspect of the show, from
-    drapery, furniture, and window installation, to entryway design and [all printed
-    materials](http://thegraphicsoffice.com/portfolio/shelleys-ghost-print-and-digital/).
-    We partnered with talented writer and painter Anya Ulinich to create a collaged
-    _dramatis personae_ of Shelley and his circle.
+  text: We were asked to create something “theatrical.” Collaborating with exhibition
+    designer Barbara Suhr, we worked on every aspect of the show, from drapery, furniture,
+    and window installation, to entryway design and [all printed materials](http://thegraphicsoffice.com/portfolio/shelleys-ghost-print-and-digital/).
+    We partnered with writer and painter Anya Ulinich to create a collaged _dramatis
+    personae_ of Shelley and his circle.
   layout: left
 - image: "/uploads/003Shelley.jpg"
   image_caption: 
@@ -35,7 +34,6 @@ sections:
   image_caption: Photograph by Herb Scher.
   text: This window installation incorporated an early 19th-century watercolor view
     of Lake Geneva which was back-lit and framed by period styled velvet drapery.
-    On either side were large backdrops of Shelley’s funeral pyre and a Romantic landscape.
   layout: full
 - image: "/uploads/006Shelley.jpg"
   image_caption: Text panels were made of layers of digital prints of foxed paper
@@ -53,7 +51,7 @@ sections:
   layout: left
 - image: "/uploads/009-011ShelleyrevAV.jpg"
   image_caption: A watercolor silhouette created for Shelley’s first wife, a suicide
-    by drowning; Lord Byron and his daughter Allegra
+    by drowning.
   text: 
   layout: center
 - image: "/uploads/010Shelley.jpg"
@@ -62,4 +60,4 @@ sections:
   layout: full
 ---
 
-_Shelley’s Ghost_ (Spring 2012) brought together objects from the New York Public Library’s Pforzheimer Collection, one of the world’s premiere holdings of material related to Romantic poet Percy Bysshe Shelley, and the Bodleian Library at Oxford, England.
+_Shelley’s Ghost_ brought together objects from the New York Public Library’s Pforzheimer Collection, one of the world’s premiere holdings of material related to Romantic poet Percy Bysshe Shelley, and the Bodleian Library at Oxford, England.
