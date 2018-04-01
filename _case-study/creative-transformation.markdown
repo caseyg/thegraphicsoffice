@@ -9,18 +9,18 @@ description: When we recognize quality in something overlooked or relatively ins
   the impulse derives from a desire to reanimate history; sometimes from the need
   to add drama to a design.
 sections:
-- image: "/uploads/productandrealestatewalls.jpg"
+- image: "/uploads/BdeB-TDC2ret.jpg"
   image_caption: 
-  text: |
-    ## *Minutes to Midtown* exhibition, New York Transit Museum
-
-    A curator’s sidebar text on the history of industry in Queens seemed abstract. Further research revealed that Queens has been the origin and home of many great American companies. Why not design a “Made in Queens” wall of logos and include some vintage packaging?
+  text: "## *B de B* chapbook prints\n\n\nThe line of alphabet prints we call “B.
+    de B.” are sourced from a 19th-century scrapbook of children’s chapbook pages
+    that we bought at an antiques fair. We combined images and letters from the album,
+    supplemented the missing letters, and created a completely new set of prints. "
 - image: "/uploads/TGO-Shelley_Fanny_RET.jpg"
   image_caption: 
-  text: |
-    ## *Shelley’s Ghost* exhibition, New York Public Library
-
-    In an effort to engage visitors with the poet Percy Bysshe Shelley’s ideas, and to help fulfill the brief to design a dynamic and dramatic exhibition, we suggested four keepsake cards to be made available free of charge in the gallery. We printed the cards letterpress on thick paper and distributed them from a vintage library card catalog drawer.
+  text: "## *Shelley’s Ghost* exhibition, New York Public Library\n\nA research trip
+    to Kansas resulted in a series of onsite gravestone rubbings of the word “DIED.”
+    This design combines them into one print that is a catalog of mourning lettering
+    in America in the 19th century. \n"
 - image: "/uploads/Rolodex.jpg"
   Key: "/uploads/RubensteinWallEntire.jpg"
   image_caption: 
@@ -31,5 +31,3 @@ sections:
 ---
 
 When we recognize quality in something overlooked or relatively insignificant, we find it immensely satisfying to shape and share it in a contemporary form. Sometimes the impulse derives from a desire to reanimate history; sometimes from the need to add drama to a design. 
-
-The line of alphabet prints we call “B. de B.” are sourced from a 19th-century scrapbook of children’s chapbook pages that we bought at an antiques fair. We combined images and letters from the album, supplemented the missing letters, and created a completely new set of prints. 
