@@ -17,10 +17,34 @@ layout: default
   </div>
 </div>
 <hr>
+
+<section id="work" class="my-4">
+  <h2><a href="/work">Our Work &rarr;</a></h2>
+  <div class="row">
+    <div class="col-12 col-md-3 mt-3">
+      <section class="services sans">
+        <a href="/work" class="font-weight-bold">Browse by Services →</a>
+        <hr>
+        <a href="/work" class="font-weight-bold">Browse by Category →</a>
+        <hr>
+        <a href="/work" class="font-weight-bold">Browse by Client →</a>
+      </section>
+    </div>
+    {% for work in site.work limit:3 %}
+    <div class="col-3">
+      <a href="{{ work.url }}">
+        <img src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/350x250?text={{ work.title }}{% endif %}" alt="{{ work.title }}">
+        {{ work.title }}
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
 </div>
 
 <section id="casestudies" class="my-4">
   <div class="container-fluid sans">
+    <hr>
     <div class="container">
       <div class="row">
         <h2 class="col">Case Studies</h2>
@@ -49,43 +73,6 @@ layout: default
 </section>
 
 <div class="container">
-
-<hr>
-
-<section id="work" class="my-4">
-  <h2><a href="/work">Our Work &rarr;</a></h2>
-  <div class="row">
-    <div class="col-12 col-md-4 mt-3">
-      <section class="services sans">
-        <div>
-          <h3><a href="/work">Product Development</a></h3>
-          <a href="/work" class="font-weight-bold">Browse by Services →</a>
-        </div>
-        <hr>
-        <div>
-          <h3><a href="/work/archive?filter=.gardens">Gardens</a></h3>
-          <a href="/work" class="font-weight-bold">Browse by Subject Matter →</a>
-        </div>
-        <hr>
-        <div>
-          <h3><a href="/work">NYPL (4 Projects)</a></h3>
-          <a href="/work" class="font-weight-bold">Browse by Client →</a>
-        </div>
-      </section>
-    </div>
-    {% for work in site.work limit:2 %}
-    <div class="col-6 col-md-4">
-      <a href="{{ work.url }}">
-        <img src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/350x250?text={{ work.title }}{% endif %}" alt="{{ work.title }}">
-        {{ work.title }}
-      </a>
-    </div>
-    {% endfor %}
-  </div>
-</section>
-
-<hr>
-
 <section id="research" class="my-4">
   <h2><a href="/research">Our Research &rarr;</a></h2>
   <div class="row">
