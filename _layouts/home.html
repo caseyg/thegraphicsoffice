@@ -2,24 +2,22 @@
 layout: default
 ---
 
-<hr style="margin-top: 50px;">
-<div class="row">
-  <div class="col typer">
+<div class="row" style="margin-top: 50px;">
+  <div class="col col-md-6 typer">
     The Graphics Office
     <span id="typer">
       {% for typing in page.typings %}
       {{ typing }}<br>
       {% endfor %}
     </span>
-  </div>
-  <div class="col">
-    <a class="serif" href="/about"><em>Read more</em> &rarr;</a>
+    <br>
+    <a class="sans" href="/about" style="font-style: normal;"><small>Read more</small></a>
   </div>
 </div>
-<hr>
+<hr style="border-color: #000;">
 
 <section id="work" class="my-4">
-  <h2><a href="/work">Our Work &rarr;</a></h2>
+  <h2>Our Work</h2>
   <div class="row">
     <div class="col-12 col-md-3 mt-3">
       <section class="services sans">
