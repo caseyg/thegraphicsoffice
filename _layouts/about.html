@@ -6,12 +6,12 @@ layout: default
 {% if page.subtitle %}<h2 class="page__subtitle">{{ page.subtitle }}</h2>{% endif %}
 
 <div class="row" style="margin-top: 50px;">
-  <div class="col-md-8">
+  <div class="col-md-7">
     <div class="lead">
       {{ content }}
     </div>
   </div>
-  <div class="col-md-4">
+  <div class="col-md-4 offset-md-1">
     <h2>Client List</h2>
     <ul>
       {% for client in page.clients %}
