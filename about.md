@@ -60,10 +60,8 @@ accolades: >-
 
   **American Printing History Association
 clients:
-  - name: Test
-    link: 'http://google.com'
-  - name: 'Amercian Printing History Association'
-    link: 'test'
+  - name: 'American Printing History Association'
+    link: ''
   - name: 'Associated Press'
     link:
   - name: 'Des Moines Art Center'
