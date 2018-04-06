@@ -6,8 +6,8 @@ backend:
 media_folder: "_uploads" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
+  - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Posts" # Used in the UI, ie.: "New Post"
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -28,6 +28,13 @@ collections: # A list of collections the CMS should be able to edit
   - name: "work" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Work" # Used in the UI, ie.: "New Post"
     folder: "_work" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+  - name: "pages" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Pages" # Used in the UI, ie.: "New Post"
+    folder: "." # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
