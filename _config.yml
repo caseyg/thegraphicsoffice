@@ -5,6 +5,7 @@ collections:
   posts:
     title: Blog
     output: true
+    permalink: /research/:title/
   case-study:
     title: Case Studies
     output: true
@@ -41,10 +42,15 @@ defaults:
     type: research
   values:
     layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: page
 email: desk@thegraphicsoffice.com
 description: TKTKTK
-baseurl: 
-url: 
+baseurl:
+url:
 markdown: kramdown
 plugins:
 - jekyll-feed
