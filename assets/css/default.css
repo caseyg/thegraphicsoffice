@@ -139,10 +139,25 @@ img {
   line-height: 1;
 }
 
+footer {
+  background-image: url("/uploads/contact-background11.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+footer a:link,
+footer a:visited {
+  color: #fff;
+}
+
 footer #contact {
   min-height: 30vh;
 }
 
+footer hr {
+  border-color: #fff;
+}
 
 .card-columns {
   column-count: 2;
