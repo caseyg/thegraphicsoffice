@@ -10,6 +10,11 @@
   line-height: .8;
 }
 
+.logo {
+  line-height: .9!important;
+  display: inline-block;
+}
+
 nav {
   line-height: 1!important;
 }
