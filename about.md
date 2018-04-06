@@ -1,5 +1,6 @@
 ---
 title: About
+layout: about
 partners:
   - bio: >-
       Graphic designer for The New York Public Library, the North Carolina
