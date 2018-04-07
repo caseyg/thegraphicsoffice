@@ -10,6 +10,11 @@
   line-height: .8;
 }
 
+.logo {
+  line-height: .9!important;
+  display: inline-block;
+}
+
 nav {
   line-height: 1!important;
 }
@@ -29,9 +34,7 @@ nav {
 
 .typer {
   font-style: italic;
-  color: teal;
   display: block;
-  text-align: right;
 }
 
 .serif,
@@ -123,6 +126,10 @@ img {
   font-weight: 700;
 }
 
+.carousel-cell img {
+  width: 100%;
+}
+
 .card, .card-img {
   border: 0;
   border-radius: 0;
@@ -137,10 +144,25 @@ img {
   line-height: 1;
 }
 
+footer {
+  background-image: url("/uploads/contact-background11.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+footer a:link,
+footer a:visited {
+  color: #fff;
+}
+
 footer #contact {
   min-height: 30vh;
 }
 
+footer hr {
+  border-color: #fff;
+}
 
 .card-columns {
   column-count: 2;
