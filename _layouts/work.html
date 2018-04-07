@@ -10,11 +10,11 @@ layout: default
 </div>
 <div class="container">
 <section id="selected-projects">
-  <h2>Projects</h2>
   <div class="row">
     <section id="browse" class="sans col-md-3">
       <h2>Filter projects by...</h2>
       <ul class="button-group filter-button-group">
+        <li><button class="btn btn-link active" data-filter=".featured">Selected projects</button></li>
         <li><button class="btn btn-link" data-filter="*">All projects</button></li>
       </ul>
       <h2>Services</h2>
@@ -31,10 +31,9 @@ layout: default
       </ul>
     </section>
     <section id="selected-projects" class="col-md-9">
-      <h2>Selected Projects</h2>
       <div class="grid">
         {% for work in site.work %}
-          <div class="col-md-4 card p-3 text-center sans {% for role in work.meta.roles %} {{ role | slugify | lowercase }}{% endfor %}">
+          <div class="col-md-4 card p-3 text-center sans {% for role in work.roles %} {{ role | slugify | lowercase }}{% endfor %} {% if work.featured %}featured{% endif %}">
             <a href="{{ work.url }}">
               <img class="card-img-top" src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/400x400{% endif %}" alt="{{ work.title }}">
               <h5 class="card-title mt-2"><strong>{{ work.title }}</strong></h5>
@@ -109,7 +108,7 @@ layout: default
 
 <hr>
 
-<section id="casestudies">
+<section id="casestudies" class="mb-3">
   <h2>Case Studies</h2>
   <div class="row">
     {% for case-study in site.case-study %}

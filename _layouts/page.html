@@ -19,24 +19,22 @@ layout: default
   </div>
 </div>
 <div class="row">
-  {% if page.meta %}
   <div class="col sans py-2 pt-3"  style="margin: 50px auto; border-left: 0; border-top: 1px solid #000; border-bottom: 1px solid #000;">
     <div class="row">
       <div class="col col-md-3">
         <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Client</strong></h2>
-        <p>{{ page.meta.client }}</p>
+        <p>{{ page.client }}</p>
       </div>
       <div class="col col-md-3">
         <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Services</strong></h2>
         <ul class="list-unstyled">
-          {% for role in page.meta.roles %}
+          {% for role in page.roles %}
           <li class="list-unstyled-item"><a href="/work#filter=.{{role | slugify}}">{{ role }}</a></li>
           {% endfor %}
         </ul>
       </div>
     </div>
   </div>
-  {% endif %}
 
   {% if page.sections %}
     <section class="sections">
