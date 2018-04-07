@@ -1,7 +1,7 @@
 ---
 title: Resonance
 date: 2018-01-10 11:12:00 -05:00
-header-image: "/uploads/TGO%20case%20studies3.jpg"
+header-image: "/uploads/resonance.png"
 description: One of the most exciting parts of any project is finding details, ideas,
   or key elements to highlight. In each case we think of this as finding a punctuation
   point, a choice or series of choices that convey something compelling, unexpectedly
