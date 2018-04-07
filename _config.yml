@@ -41,8 +41,13 @@ defaults:
     type: research
   values:
     layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: page
 email: desk@thegraphicsoffice.com
-description: TKTKTK
+description: 'TKTKTK '
 baseurl: 
 url: 
 markdown: kramdown

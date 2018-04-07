@@ -1,0 +1,14 @@
+---
+title: Childhood Cartography
+date: 2011-11-25 00:18:00 -05:00
+tags:
+- design
+- travel
+author: Doug Clouse
+modified_time: '2012-05-14T16:48:51.260-07:00'
+thumbnail: http://4.bp.blogspot.com/-pVqyrLc77lE/Tt2O5B2k33I/AAAAAAAAA4k/llZnXIvEkf8/s72-c/mapentireFLATdetail.jpg
+blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-999583656818575682
+blogger_orig_url: http://www.sandislandblog.com/2011/11/childs-map.html
+---
+
+<a href="http://4.bp.blogspot.com/-pVqyrLc77lE/Tt2O5B2k33I/AAAAAAAAA4k/llZnXIvEkf8/s1600/mapentireFLATdetail.jpg"><img alt="" border="0" height="427" id="BLOGGER_PHOTO_ID_5682855415212466034" src="http://4.bp.blogspot.com/-pVqyrLc77lE/Tt2O5B2k33I/AAAAAAAAA4k/llZnXIvEkf8/s640/mapentireFLATdetail.jpg" style="display: block; height: 267px; margin-bottom: 10px; margin-left: auto; margin-right: auto; margin-top: 0px; text-align: center; width: 400px;" width="640" /></a><br /><div style="text-align: center;">detail (entire map is below)</div><div style="text-align: center;"><br /></div><a href="http://3.bp.blogspot.com/-BbsuMWFwxto/Tt2O4w4oLDI/AAAAAAAAA4c/LVfMAICTgio/s1600/mapentireFLAT.jpg"><img alt="" border="0" height="420" id="BLOGGER_PHOTO_ID_5682855410657668146" src="http://3.bp.blogspot.com/-BbsuMWFwxto/Tt2O4w4oLDI/AAAAAAAAA4c/LVfMAICTgio/s640/mapentireFLAT.jpg" style="display: block; height: 263px; margin-bottom: 10px; margin-left: auto; margin-right: auto; margin-top: 0px; text-align: center; width: 400px;" width="640" /></a><br /><div style="text-align: center;"><div style="text-align: left;">More along the line of recent posts on tropical places...</div></div>In the early 1970s I drew this map of the Jesuit high school on Pohnpei (then Ponape), a small island in Micronesia, where my parents were teaching. I was about ten years old. Our family lived in the second house from the top in the upper right. Where the top of the paper is was the edge of the bay in front of the school, then called PATS, Ponape Agriculture and Trade School. Note the spelling of "dich" in the top detail. My brothers and I cared about ditches because they filled up from the plentiful rain and brimmed with toads.
