@@ -23,14 +23,12 @@ layout: default
       <div class="col col-md-3">
         <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Client</strong></h2>
         <p>{{ page.meta.client }}</p>
-        <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Date</strong></h2>
-        <p>{{ page.meta.year }}</p>
       </div>
       <div class="col col-md-3">
         <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Services</strong></h2>
         <ul class="list-unstyled">
           {% for role in page.meta.roles %}
-          <li class="list-unstyled-item"><a href="/work/archive#filter=.{{role | slugify}}">{{ role }}</a></li>
+          <li class="list-unstyled-item"><a href="/work#filter=.{{role | slugify}}">{{ role }}</a></li>
           {% endfor %}
         </ul>
       </div>
