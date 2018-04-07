@@ -6,5 +6,11 @@ roles:
 - Exhibit Design
 - Map
 - Graphic Design
+sections:
+- image: /uploads/002FutureBeneath-e1351375240424.jpg
+- image: /uploads/003FutureBeneath.jpg
+- image: /uploads/004FutureBeneath.jpg
+- image: /uploads/005FutureBeneath.jpg
+- image: /uploads/006FutureBeneath.jpg
 ---
 Few New Yorkers realize the city is in the midst of some of the largest underground engineering projects ever. This 2009 New York Transit Museum exhibition presented eight of these initiatives in two parts, at the Science, Industry, and Business Library on Madison Avenue and 34th Street and at Grand Central terminal. Angela developed a map, site-specific window graphics, and designed the installation for each space (in collaboration with Barbara Suhr), in addition to the accompanying<a href="http://thegraphicsoffice.com/portfolio/the-future-beneath-us-print/"> print pieces</a>.
