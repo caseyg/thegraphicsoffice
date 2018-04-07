@@ -32,6 +32,30 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Thumb", name: "thumb", widget: "image", tagname: "img"}
+      - label: "Client"
+        name: "client"
+        widget: "string"
+        required: false
+      - label: "Roles"
+        name: "roles"
+        widget: "list"
+        required: false
+      - label: "Featured?"
+        name: "featured"
+        widget: "boolean"
+      - label: "Text"
+        name: "body"
+        widget: "markdown"
+      - label: "Sections"
+        name: "sections"
+        required: false
+        widget: "list"
+        fields:
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image Caption", name: "image_caption", widget: "string"}
+          - {label: "Text", name: "text", widget: "markdown"}
+          - {label: "Layout", name: "layout", widget: "select", options: ["left", "center", "full"]}
   - name: "pages" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Pages" # Used in the UI, ie.: "New Post"
     folder: "." # The path to the folder where the documents are stored
