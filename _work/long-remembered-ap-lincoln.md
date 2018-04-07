@@ -1,6 +1,7 @@
 ---
 title: Long Remembered - print
 date: 2012-10-16 11:28:38 -04:00
+thumb: "/uploads/001APLincoln-thumb-340x243.jpg"
 roles:
 - Graphic Design
 ---

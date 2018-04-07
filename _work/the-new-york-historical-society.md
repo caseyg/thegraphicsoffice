@@ -1,6 +1,7 @@
 ---
 title: The New York Historical Society
 date: 2012-10-16 12:38:02 -04:00
+thumb: "/uploads/001NYHSPrint-thumb1-340x243.jpg"
 roles:
 - Graphic Design
 - Image Research

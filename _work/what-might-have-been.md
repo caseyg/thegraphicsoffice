@@ -1,6 +1,7 @@
 ---
 title: What Might Have Been, An Irish Family at 97 Orchard Street
 date: 2012-10-16 11:57:11 -04:00
+thumb: "/uploads/001TenementIrish-thumb1-340x243.jpg"
 roles:
 - Book Design
 - Research

@@ -1,6 +1,7 @@
 ---
 title: Summit Downtown, Inc.
 date: 2014-02-24 16:32:25 -05:00
+thumb: "/uploads/SUMMIT-340X2421.jpg"
 roles:
 - Graphic Design
 - Identity

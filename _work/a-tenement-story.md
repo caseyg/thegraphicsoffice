@@ -1,6 +1,7 @@
 ---
 title: A Tenement Story
 date: 2012-10-16 11:54:33 -04:00
+thumb: "/uploads/001TenementStory-thumb1-340x243.jpg"
 roles:
 - Book Design
 - Research

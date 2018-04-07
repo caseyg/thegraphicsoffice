@@ -1,7 +1,7 @@
 ---
 title: 'Phyllida Barlow: Scree'
 date: 2015-03-05 16:25:06 -05:00
-thumb: "/uploads/barlow-thumb.jpg"
+thumb: "/uploads/SCREE-340X242.jpg"
 roles:
 - Book Design
 featured: true

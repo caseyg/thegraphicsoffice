@@ -1,6 +1,7 @@
 ---
 title: Lincoln and New York
 date: 2012-10-16 09:36:22 -04:00
+thumb: "/uploads/001NYHSLincoln-thumb-340x242revAV.jpg"
 roles:
 - Graphic Design
 - Image Research

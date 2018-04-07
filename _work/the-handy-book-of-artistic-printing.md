@@ -1,6 +1,7 @@
 ---
 title: The Handy Book of Artistic Printing
 date: 2012-10-16 11:40:00 -04:00
+thumb: "/uploads/001HandyBook-thumb1-340x243.jpg"
 roles:
 - Book Design
 - Research

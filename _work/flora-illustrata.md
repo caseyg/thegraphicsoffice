@@ -1,6 +1,6 @@
 ---
 title: Flora Illustrata
-thumb: /uploads/flora-thumb.jpg
+thumb: /uploads/FLORA-340X242.jpg
 roles:
   - Exhibition Design
   - Graphic Design

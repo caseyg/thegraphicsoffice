@@ -1,6 +1,7 @@
 ---
 title: DIDI
 date: 2012-10-16 13:19:07 -04:00
+thumb: "/uploads/image-340x243.jpg"
 roles:
 - GRAPHIC DESIGN
 - IDENTITY

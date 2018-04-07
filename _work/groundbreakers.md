@@ -1,6 +1,7 @@
 ---
 title: Groundbreakers
 date: 2015-03-05 16:13:43 -05:00
+thumb: "/uploads/GRNDBRKRS-340X242.jpg"
 roles:
 - EXHIBITION DESIGN
 - GRAPHIC DESIGN

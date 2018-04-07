@@ -1,6 +1,7 @@
 ---
 title: Long Remembered
 date: 2012-10-16 12:23:56 -04:00
+thumb: "/uploads/001APLincoln-thumb2-340x243.jpg"
 roles:
 - Graphic Design
 ---

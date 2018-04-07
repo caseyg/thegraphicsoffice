@@ -1,6 +1,7 @@
 ---
 title: Gallery BAC website
 date: 2013-07-31 10:59:27 -04:00
+thumb: "/uploads/BAC-340X242.jpg"
 roles:
 - GRAPHIC DESIGN
 - WEB DESIGN

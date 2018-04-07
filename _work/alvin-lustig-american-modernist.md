@@ -1,6 +1,7 @@
 ---
 title: Alvin Lustig, American Modernist
 date: 2012-10-16 11:15:11 -04:00
+thumb: "/uploads/001Lustig-thumb1-340x243.jpg"
 roles:
 - RESEARCH
 - CURATION

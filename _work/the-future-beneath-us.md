@@ -1,6 +1,7 @@
 ---
 title: The Future Beneath Us - exhibition
 date: 2012-10-16 10:47:53 -04:00
+thumb: "/uploads/001FutureBeneath-thumb-340x242revAV2.jpg"
 roles:
 - Exhibit Design
 - Map

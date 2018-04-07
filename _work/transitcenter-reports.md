@@ -1,6 +1,6 @@
 ---
 title: TransitCenter Reports
-thumb: /uploads/transit-thumb.jpg
+thumb: /uploads/transit-center-340X242.jpg
 featured: true
 roles:
 - Graphic Design

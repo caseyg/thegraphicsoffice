@@ -1,6 +1,7 @@
 ---
 title: Letterpress Experiments
 date: 2013-08-16 13:32:29 -04:00
+thumb: "/uploads/Let_thumb2-340x242.jpg"
 roles:
 - Graphic Design
 ---

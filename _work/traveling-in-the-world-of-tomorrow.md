@@ -1,6 +1,7 @@
 ---
 title: Traveling in the World of Tomorrow
 date: 2015-03-05 16:25:38 -05:00
+thumb: "/uploads/Trans-world-fair-340X242.jpg"
 roles:
 - Exhibition Design
 - Graphic Design

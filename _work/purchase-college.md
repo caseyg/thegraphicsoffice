@@ -1,6 +1,7 @@
 ---
 title: Purchase College
 date: 2012-10-16 12:41:22 -04:00
+thumb: "/uploads/PURCHASE-340X242 (1).jpg"
 roles:
 - Graphic Design
 - Identity

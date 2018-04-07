@@ -2,7 +2,7 @@
 title: Shelley’s Ghost
 date: 2012-10-16 11:25:00 -04:00
 subtitle: The After-Life of a Poet
-thumb: "/uploads/shelley-thumb.jpg"
+thumb: "/uploads/001Shelley-thumb21B-340x242.jpg"
 client: New York Public Library
 roles:
 - Exhibition Design

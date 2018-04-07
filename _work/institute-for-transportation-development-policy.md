@@ -1,6 +1,7 @@
 ---
 title: Institute for Transportation & Development Policy
 date: 2012-10-16 12:34:37 -04:00
+thumb: "/uploads/TGO-ITDPbikes-340x243.jpg"
 roles:
 - Graphic Design
 - Editing

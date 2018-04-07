@@ -1,6 +1,7 @@
 ---
 title: 'Antonio Frasconi: Stand Up and Be Counted'
 date: 2015-03-05 16:24:25 -05:00
+thumb: "/uploads/FRASCONI-340X242.jpg"
 roles:
 - GRAPHIC DESIGN
 ---

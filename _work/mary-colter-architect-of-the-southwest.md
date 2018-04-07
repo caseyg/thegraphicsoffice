@@ -1,6 +1,7 @@
 ---
 title: Mary Colter, Architect of the Southwest
 date: 2012-10-16 11:47:16 -04:00
+thumb: "/uploads/"
 roles:
 - Book Design
 ---

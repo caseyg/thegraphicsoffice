@@ -1,6 +1,7 @@
 ---
 title: James Cohan Gallery
 date: 2013-08-16 13:25:36 -04:00
+thumb: "/uploads/COHAN-340X242.jpg"
 roles:
 - Graphic Design
 ---

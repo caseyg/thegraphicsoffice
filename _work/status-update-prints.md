@@ -1,6 +1,7 @@
 ---
 title: Status Update prints
 date: 2015-03-05 15:59:31 -05:00
+thumb: "/uploads/Not-But-340X242.jpg"
 roles:
 - Graphic Design
 - Product Development

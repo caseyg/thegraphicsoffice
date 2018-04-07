@@ -1,6 +1,7 @@
 ---
 title: TypeHigh
 date: 2012-10-16 13:21:44 -04:00
+thumb: "/uploads/001typehigh-thumb1-340x243.jpg"
 roles:
 - Graphic Design
 - Identity

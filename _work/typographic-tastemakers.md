@@ -1,6 +1,7 @@
 ---
 title: 'Mackellar, Smiths & Jordan: Typographic Tastemakers of the Nineteenth Century'
 date: 2012-10-16 12:00:29 -04:00
+thumb: "/uploads/001MacKellarBooks-thumb1-340x243.jpg"
 roles:
 - Research
 - Writing

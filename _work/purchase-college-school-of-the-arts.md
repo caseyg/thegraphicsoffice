@@ -1,7 +1,7 @@
 ---
 title: Purchase College School of the Arts
 date: 2015-03-05 16:05:21 -05:00
-thumb: "/uploads/purchase-thumb.jpg"
+thumb: "/uploads/Purchase-340x242.jpg"
 roles:
 - Graphic Design
 - Image Research

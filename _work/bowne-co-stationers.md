@@ -1,7 +1,7 @@
 ---
 title: Bowne & Co., Stationers
 date: 2012-10-16 13:11:57 -04:00
-thumb: "/uploads/bowne-thumb.jpg"
+thumb: "/uploads/001Bowne-thumb1-340x243.jpg"
 roles:
 - Graphic Design
 - Identity

@@ -1,6 +1,7 @@
 ---
 title: Transit Center
 date: 2014-02-24 16:21:03 -05:00
+thumb: "/uploads/TRANSIT-340X2421.jpg"
 roles:
 - Graphic Design
 - Web Design

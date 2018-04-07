@@ -1,6 +1,7 @@
 ---
 title: General Contrators Association of New York
 date: 2012-10-16 12:31:45 -04:00
+thumb: "/uploads/GCA_thumb2-340x242.jpg"
 roles:
 - GRAPHIC DESIGN
 - IMAGE RESEARCH

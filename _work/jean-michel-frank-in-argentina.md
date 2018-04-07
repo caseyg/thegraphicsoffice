@@ -1,6 +1,7 @@
 ---
 title: Jean-Michel Frank in Argentina
 date: 2012-10-16 11:35:07 -04:00
+thumb: "/uploads/001GalleryBAC-thumb1-340x243.jpg"
 roles:
 - Book Design
 ---

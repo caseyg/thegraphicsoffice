@@ -1,7 +1,7 @@
 ---
 title: Dead Sexy
 date: 2012-10-16 13:15:00 -04:00
-thumb: "/uploads/deadsexy-thumb-4aea15.jpg"
+thumb: "/uploads/001Deadsexy-thumb1-340x243.jpg"
 roles:
 - Graphic Design
 - Writing

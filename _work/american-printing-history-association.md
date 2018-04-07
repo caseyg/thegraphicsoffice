@@ -1,6 +1,7 @@
 ---
 title: American Printing History Association
 date: 2013-08-16 13:28:57 -04:00
+thumb: "/uploads/APHA-340X242.jpg"
 roles:
 - graphic design
 ---

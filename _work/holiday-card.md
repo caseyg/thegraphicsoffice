@@ -1,6 +1,7 @@
 ---
 title: Holiday card
 date: 2015-03-05 16:02:21 -05:00
+thumb: "/uploads/Holiday-340X242.jpg"
 roles:
 - Graphic Design
 - Image Research

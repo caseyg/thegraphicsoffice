@@ -1,6 +1,7 @@
 ---
 title: The Once and Future Pennsylvania Station
 date: 2012-10-16 11:20:10 -04:00
+thumb: "/uploads/001PennStation-thumb1-340x243.jpg"
 roles:
 - Graphic Design
 - Image Research

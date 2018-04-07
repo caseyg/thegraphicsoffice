@@ -1,6 +1,7 @@
 ---
 title: Bellwether Gallery
 date: 2012-10-16 12:29:12 -04:00
+thumb: "/uploads/Bell_thumb2-340x243.jpg"
 roles:
 - GRAPHIC DESIGN
 - IDENTITY

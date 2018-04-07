@@ -1,6 +1,7 @@
 ---
 title: B de B Chapbook prints
 date: 2015-03-05 16:00:33 -05:00
+thumb: "/uploads/B-de-b-340X242.jpg"
 roles:
 - GRAPHIC DESIGN
 - IMAGE RESEARCH

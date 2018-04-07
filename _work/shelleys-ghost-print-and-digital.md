@@ -1,6 +1,7 @@
 ---
 title: Shelley’s Ghost - print and digital
 date: 2012-10-16 12:17:50 -04:00
+thumb: "/uploads/001ShelleyGhostPrint-thumb-r-340x243.jpg"
 roles:
 - Graphic Design
 - Web Design

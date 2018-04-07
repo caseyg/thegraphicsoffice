@@ -1,6 +1,7 @@
 ---
 title: Studio Museum Harlem
 date: 2013-08-10 14:03:56 -04:00
+thumb: "/uploads/"
 roles:
 - Exhibition Design
 - Graphic Design

@@ -1,6 +1,7 @@
 ---
 title: Sublime
 date: 2015-03-05 16:04:21 -05:00
+thumb: "/uploads/Sublime-340x242.jpg"
 roles:
 - Exhibition Design
 - Graphic Design
