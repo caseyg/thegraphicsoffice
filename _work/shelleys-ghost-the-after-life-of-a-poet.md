@@ -56,6 +56,7 @@ sections:
   image_caption: A commissioned hand-cut silhouette affixed with a 19th-century clip.
   text:
   layout: full
+featured: true
 ---
 
 _Shelley’s Ghost_ brought together objects from the New York Public Library’s Pforzheimer Collection, one of the world’s premiere holdings of material related to Romantic poet Percy Bysshe Shelley, and the Bodleian Library at Oxford, England.
