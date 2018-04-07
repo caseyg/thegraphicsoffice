@@ -1,6 +1,10 @@
 ---
 title: TransitCenter Reports
 thumb: /uploads/transit-thumb.jpg
+roles:
+  - Graphic Design
+  - Information Graphics
+  - Image Research
 featured: true
 ---
 
