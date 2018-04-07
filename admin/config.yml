@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: caseyg/thegraphicsoffice # Path to your Github repository
-  branch: siteleaf # Branch to update (master by default)
+  branch: master # Branch to update (master by default)
 
 media_folder: "_uploads" # Folder where user uploaded files should go
 
