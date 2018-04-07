@@ -5,7 +5,6 @@ collections:
   posts:
     title: Blog
     output: true
-    permalink: /research/:title/
   case-study:
     title: Case Studies
     output: true
@@ -48,9 +47,9 @@ defaults:
   values:
     layout: page
 email: desk@thegraphicsoffice.com
-description: TKTKTK
-baseurl:
-url:
+description: 'TKTKTK '
+baseurl: 
+url: 
 markdown: kramdown
 plugins:
 - jekyll-feed
