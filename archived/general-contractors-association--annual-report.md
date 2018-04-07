@@ -1,17 +1,6 @@
 ---
 title: General Contractors Association 2014 Annual Report
 date: 2015-03-05 16:23:43 -05:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '1366'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adcSTUDIO admin
-  email: admin@adcstudio.com
-  display_name: admin adcSTUDIO
-  first_name: admin
-  last_name: adcSTUDIO
 ---
 
 <h1 class="p1">General Contractors Association 2014 Annual Report</h1>
@@ -20,5 +9,3 @@ author:
 
 
 <p class="p2">[imagelist id=1380]
-
-

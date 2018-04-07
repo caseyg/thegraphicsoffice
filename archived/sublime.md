@@ -1,17 +1,6 @@
 ---
 title: Sublime
 date: 2015-03-05 16:04:21 -05:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '1371'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adcSTUDIO admin
-  email: admin@adcstudio.com
-  display_name: admin adcSTUDIO
-  first_name: admin
-  last_name: adcSTUDIO
 ---
 
 <h1>Sublime</h1>
@@ -38,5 +27,3 @@ The New York Public Library’s Print Collection organizes exhibitions of their 
 
 
 <img class="alignnone size-large wp-image-1424" src="{{ site.baseurl }}/assets/NYPL_Sublime8-SM-740x585.jpg" alt="NYPL_Sublime8-SM" width="740" height="585" />
-
-

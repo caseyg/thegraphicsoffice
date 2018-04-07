@@ -1,18 +1,6 @@
 ---
 title: Jean-Michel Frank in Argentina
 date: 2012-10-16 11:35:07 -04:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '873'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _wp_old_slug: '517'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>JEAN-MICHEL FRANK IN ARGENTINA</h1>

@@ -1,17 +1,6 @@
 ---
 title: Alvin Lustig, American Modernist
 date: 2012-10-16 11:15:11 -04:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '867'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>ALVIN LUSTIG, AMERICAN MODERNIST</h1>

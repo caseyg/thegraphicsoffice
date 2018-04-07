@@ -1,17 +1,6 @@
 ---
 title: Gallery BAC website
 date: 2013-07-31 10:59:27 -04:00
-meta:
-  pfwk_exclude: 'false'
-  _edit_last: '5'
-  _wp_page_template: default
-  _thumbnail_id: '1304'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>Gallery BAC website</h1>

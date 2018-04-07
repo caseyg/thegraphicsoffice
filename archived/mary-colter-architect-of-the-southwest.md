@@ -1,18 +1,6 @@
 ---
 title: Mary Colter, Architect of the Southwest
 date: 2012-10-16 11:47:16 -04:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '872'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _wp_old_slug: '541'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>MARY COLTER, ARCHITECT OF THE SOUTHWEST</h1>

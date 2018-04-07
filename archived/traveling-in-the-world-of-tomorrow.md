@@ -1,17 +1,6 @@
 ---
 title: Traveling in the World of Tomorrow
 date: 2015-03-05 16:25:38 -05:00
-meta:
-  _edit_last: '6'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _thumbnail_id: '1372'
-author:
-  login: adcSTUDIO admin
-  email: admin@adcstudio.com
-  display_name: admin adcSTUDIO
-  first_name: admin
-  last_name: adcSTUDIO
 ---
 
 <h1 class="p1">Traveling in the World of Tomorrow</h1>
@@ -20,5 +9,3 @@ author:
 
 
 <p class="p2">[imagelist id=1344]
-
-

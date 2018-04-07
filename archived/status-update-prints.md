@@ -1,17 +1,6 @@
 ---
 title: Status Update prints
 date: 2015-03-05 15:59:31 -05:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '1369'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adcSTUDIO admin
-  email: admin@adcstudio.com
-  display_name: admin adcSTUDIO
-  first_name: admin
-  last_name: adcSTUDIO
 ---
 
 <h1>Status Update prints</h1>
@@ -23,5 +12,3 @@ We scanned these, combined, layered with color, and <a href="http://www.b-de-b.c
 
 
 [imagelist id=1435]
-
-

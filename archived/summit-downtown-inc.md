@@ -1,17 +1,6 @@
 ---
 title: Summit Downtown, Inc.
 date: 2014-02-24 16:32:25 -05:00
-meta:
-  _edit_last: '5'
-  _thumbnail_id: '1328'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>Summit Downtown, Inc.</h1>
@@ -20,5 +9,3 @@ The downtown Summit NJ business district is the quintessential small-town Main S
 
 
 [imagelist]
-
-

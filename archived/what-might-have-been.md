@@ -1,17 +1,6 @@
 ---
 title: What Might Have Been, An Irish Family at 97 Orchard Street
 date: 2012-10-16 11:57:11 -04:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '878'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>WHAT MIGHT HAVE BEEN,<br />

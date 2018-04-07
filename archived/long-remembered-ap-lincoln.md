@@ -1,18 +1,6 @@
 ---
 title: Long Remembered - print
 date: 2012-10-16 11:28:38 -04:00
-meta:
-  _thumbnail_id: '871'
-  _edit_last: '6'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _wp_old_slug: '510'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>LONG REMEMBERED</h1>

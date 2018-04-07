@@ -1,17 +1,6 @@
 ---
 title: Transit Center
 date: 2014-02-24 16:21:03 -05:00
-meta:
-  _edit_last: '3'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _thumbnail_id: '1329'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>Transit Center</h1>

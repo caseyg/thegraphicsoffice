@@ -1,17 +1,6 @@
 ---
 title: The Victorian Society New York
 date: 2012-10-16 12:47:24 -04:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '889'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>THE VICTORIAN SOCIETY NEW YORK</h1>

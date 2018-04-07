@@ -1,17 +1,6 @@
 ---
 title: Studio Museum Harlem
 date: 2013-08-10 14:03:56 -04:00
-meta:
-  _edit_last: '1'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _thumbnail_id: '1276'
-author:
-  login: angela
-  email: a.vou@verizon.net
-  display_name: angela
-  first_name: angela
-  last_name: voulangas
 ---
 
 <h1>Studio Museum Harlem</h1>
@@ -20,5 +9,3 @@ Three or four times a year, the Studio Museum Harlem refreshes all its exhibitio
 
 
 [imagelist id=1200]
-
-

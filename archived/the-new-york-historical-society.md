@@ -1,17 +1,6 @@
 ---
 title: The New York Historical Society
 date: 2012-10-16 12:38:02 -04:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '885'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>THE NEW-YORK HISTORICAL SOCIETY</h1>

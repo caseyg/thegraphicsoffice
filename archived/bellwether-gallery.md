@@ -1,17 +1,6 @@
 ---
 title: Bellwether Gallery
 date: 2012-10-16 12:29:12 -04:00
-meta:
-  _edit_last: '6'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _thumbnail_id: '1013'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>BELLWETHER GALLERY</h1>

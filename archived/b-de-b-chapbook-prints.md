@@ -1,17 +1,6 @@
 ---
 title: B de B Chapbook prints
 date: 2015-03-05 16:00:33 -05:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '1362'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adcSTUDIO admin
-  email: admin@adcstudio.com
-  display_name: admin adcSTUDIO
-  first_name: admin
-  last_name: adcSTUDIO
 ---
 
 <h1>B de B Chapbook prints</h1>
@@ -20,5 +9,3 @@ author:
 
 
 [imagelist id=1425]
-
-

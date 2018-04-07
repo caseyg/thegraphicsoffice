@@ -1,17 +1,6 @@
 ---
 title: DIDI
 date: 2012-10-16 13:19:07 -04:00
-meta:
-  _edit_last: '3'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _thumbnail_id: '991'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>DIDI</h1>

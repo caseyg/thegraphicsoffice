@@ -1,17 +1,6 @@
 ---
 title: Institute for Transportation & Development Policy
 date: 2012-10-16 12:34:37 -04:00
-meta:
-  _edit_last: '6'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _thumbnail_id: '1009'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>INSTITUTE FOR TRANSPORTATION &amp; DEVELOPMENT POLICY</h1>

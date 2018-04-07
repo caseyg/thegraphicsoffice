@@ -1,17 +1,6 @@
 ---
 title: A Tenement Story
 date: 2012-10-16 11:54:33 -04:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '879'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>A TENEMENT STORY</h1>

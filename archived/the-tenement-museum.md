@@ -1,17 +1,6 @@
 ---
 title: Tenement Museum
 date: 2012-10-16 12:44:23 -04:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '888'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>LOWER EAST SIDE TENEMENT MUSEUM</h1>

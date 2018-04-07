@@ -1,17 +1,6 @@
 ---
 title: Holiday card
 date: 2015-03-05 16:02:21 -05:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '1368'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adcSTUDIO admin
-  email: admin@adcstudio.com
-  display_name: admin adcSTUDIO
-  first_name: admin
-  last_name: adcSTUDIO
 ---
 
 <h1>Holiday card</h1>
@@ -20,5 +9,3 @@ How to stand out in an avalanche of holiday mail? Start with a scanned and retou
 
 
 [imagelist id=1432]
-
-

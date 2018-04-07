@@ -1,17 +1,6 @@
 ---
 title: James Cohan Gallery
 date: 2013-08-16 13:25:36 -04:00
-meta:
-  _edit_last: '6'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _thumbnail_id: '1363'
-author:
-  login: angela
-  email: a.vou@verizon.net
-  display_name: angela
-  first_name: angela
-  last_name: voulangas
 ---
 
 <h1>James Cohan Gallery</h1>
@@ -42,5 +31,3 @@ This invitation featured a lenticular self-portrait and painting by the artist.
 
 
 <img class="alignleft size-large wp-image-1336" src="{{ site.baseurl }}/assets/CohanAdsFrieze1-740x587.jpg" alt="CohanAdsFrieze1" width="740" height="587" />
-
-

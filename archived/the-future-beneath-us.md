@@ -1,17 +1,6 @@
 ---
 title: The Future Beneath Us - exhibition
 date: 2012-10-16 10:47:53 -04:00
-meta:
-  _edit_last: '6'
-  _thumbnail_id: '949'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>The Future Beneath Us</h1>

@@ -1,17 +1,6 @@
 ---
 title: General Contrators Association of New York
 date: 2012-10-16 12:31:45 -04:00
-meta:
-  _edit_last: '6'
-  _wp_page_template: default
-  pfwk_exclude: 'false'
-  _thumbnail_id: '1264'
-author:
-  login: adminBT
-  email: btellock@gmail.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
 ---
 
 <h1>GENERAL CONTRACTORS ASSOCIATION OF NEW YORK</h1>
