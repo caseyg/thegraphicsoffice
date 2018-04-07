@@ -1,14 +1,7 @@
 ---
 title: TransitCenter Reports
-date: 2015-03-05 16:22:31 -05:00
-thumb: "/uploads/transit-thumb.jpg"
-meta:
-  client: 
-  year: 
-  roles:
-  - Graphic Design
-  - Information Graphics
-  - Image Research
+thumb: /uploads/transit-thumb.jpg
+featured: true
 ---
 
 <h1 class="p1">TransitCenter Reports</h1>
