@@ -28,23 +28,6 @@ accolades-text: "**Between them, Angela and Doug have awards from** . \nAIGA; Ty
   Directors Club annual competition 2017\n\n**Doug is the president of  \n**The Type
   Directors Club  \n**and has been on the board of  \n**American Printing History
   Association, New York chapter"
-
-  **Between them, Angela and Doug have awards from** .
-  AIGA; Type Directors Club; American Association of Museums; Art Directors Club; Victorian Society New York
-
-  **They have spoken at**   
-  American Folk Art Museum, New York; Grolier Club; Cooper Union, type@cooper, Virginia Commonwealth University
-
-  **Angela has been a judge for**  
-  The Type Directors Club annual competition, 2011 and _Print_ magazine Regional Design Annuals, 2005–2007  
-  **and is co-chair for**  
-  The Type Directors Club annual competition 2017
-
-  **Doug is the president of  
-  **The Type Directors Club  
-  **and has been on the board of  
-  **American Printing History Association, New York chapter
-
 clients:
 - name: Amercian Printing History Association
 - name: Associated Press
