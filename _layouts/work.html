@@ -33,10 +33,9 @@ layout: default
     <section id="selected-projects" class="col-md-9">
       <div class="grid">
         {% for work in site.work %}
-          <div class="col-md-4 card p-3 text-center sans {% for role in work.roles %} {{ role | slugify | lowercase }}{% endfor %} {% if work.featured %}featured{% endif %}">
-            <a href="{{ work.url }}">
-              <img class="card-img-top" src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/400x400{% endif %}" alt="{{ work.title }}">
-              <h5 class="card-title mt-2"><strong>{{ work.title }}</strong></h5>
+          <div class="col-md-4 card p-3 text-center sans {% for role in work.roles %} {{ role | slugify | lowercase }}{% endfor %} {% if work.featured %}featured{% endif %} {% for category in work.categories %} {{ category | lowercase | slugify }}{% endfor %}">
+            <a href="{{ work.url }}" style="background-image:url({{ work.thumb }});">
+              <h5 class="card-title"><strong>{{ work.title }}</strong></h5>
             </a>
           </div>
         {% endfor %}

@@ -57,15 +57,22 @@ nav {
 #selected-projects a:link,
 #selected-projects a:visited {
   color: #222;
+  display: block;
+  background-size: cover;
+  text-decoration: none;
+  background-color: rgba(0,0,0,.15);
 }
 
-#selected-projects .card img {
-  transform: scale(.8);
+#selected-projects h5 {
+  padding: 50px 0;
+  margin: 0!important;
+  color: rgba(255,255,255,0);
+}
+
+#selected-projects a:hover h5 {
+  color: rgba(255,255,255,1);
+  background: rgba(0,0,0,.75);
   transition: all .25s;
-}
-
-#selected-projects .card:hover img {
-  transform: scale(.9);
 }
 
 h2 {
