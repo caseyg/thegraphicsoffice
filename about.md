@@ -2,7 +2,7 @@
 title: About
 partners:
 - name: Angela Voulangas
-  portrait: "/_uploads/angela-f6cca8.jpg"
+  portrait: "/uploads/angela-f6cca8.jpg"
 - name: Doug Clouse
 accolades: |-
   **Between them, Angela and Doug have awards from**\
