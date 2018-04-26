@@ -13,6 +13,7 @@
 .logo {
   line-height: .9!important;
   display: inline-block;
+<<<<<<< HEAD
 }
 
 nav {
@@ -32,6 +33,27 @@ nav {
   }
 }
 
+=======
+}
+
+nav {
+  line-height: 1!important;
+}
+
+@media(min-width:768px){
+  #home .nav--top__items {
+    position: absolute;
+    top: 76px;
+    left: 7.5em;
+  }
+  .nav--top__items {
+    position: absolute;
+      top: 44px;
+      left: 4em;
+  }
+}
+
+>>>>>>> master
 .typer {
   font-style: italic;
   display: block;
@@ -57,15 +79,24 @@ nav {
 #selected-projects a:link,
 #selected-projects a:visited {
   color: #222;
+  display: block;
+  background-size: cover;
+  text-decoration: none;
+  background-color: rgba(0,0,0,.15);
+  background-position: center;
 }
 
-#selected-projects .card img {
-  transform: scale(.8);
+#selected-projects h5 {
+  padding: 50px 15px;
+  margin: 0!important;
+  color: rgba(255,255,255,0);
+  min-height: 200px;
+}
+
+#selected-projects a:hover h5 {
+  color: rgba(255,255,255,1);
+  background: rgba(0,0,0,.75);
   transition: all .25s;
-}
-
-#selected-projects .card:hover img {
-  transform: scale(.9);
 }
 
 h2 {
