@@ -1,6 +1,6 @@
 ---
 title: '5 Cents to Dreamland: A Trip to Coney Island'
-thumb: "/_uploads/coney-logo2.jpg"
+thumb: "/uploads/coney-logo2.jpg"
 client: New York Transit Museum
 roles:
 - exhibition design
@@ -9,10 +9,10 @@ roles:
 - editorial research
 featured: true
 sections:
-- image: "/_uploads/p7111286.jpg"
-- image: "/_uploads/p7111630.jpg"
-- image: "/_uploads/p7111502.jpg"
-- image: "/_uploads/p7111424.jpg"
+- image: "/uploads/p7111286.jpg"
+- image: "/uploads/p7111630.jpg"
+- image: "/uploads/p7111502.jpg"
+- image: "/uploads/p7111424.jpg"
   layout: left
 ---
 
