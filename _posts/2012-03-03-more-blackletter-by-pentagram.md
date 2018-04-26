@@ -1,11 +1,10 @@
 ---
-
 title: More Blackletter by Pentagram
-date: '2012-03-03T11:21:00.005-08:00'
-author: Doug Clouse
+date: 2012-03-03 14:21:00.005000000 -05:00
 tags:
 - typography
 - design
+author: Doug Clouse
 modified_time: '2012-03-03T11:52:42.400-08:00'
 thumbnail: http://4.bp.blogspot.com/-bjEM5liRd6k/T1JxVLQrDbI/AAAAAAAAA-w/D24Rfh1S4v0/s72-c/OAKROOM-sm.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-2566239190131856945

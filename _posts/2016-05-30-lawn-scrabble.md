@@ -1,12 +1,11 @@
 ---
-
 title: Lawn Scrabble
-date: '2016-05-30T12:50:00.000-07:00'
-author: Doug Clouse
+date: 2016-05-30 15:50:00 -04:00
 tags:
 - typography
 - history
 - New York City
+author: Doug Clouse
 modified_time: '2016-07-02T10:39:09.655-07:00'
 thumbnail: https://2.bp.blogspot.com/-yLyVm1ecHJQ/V0yMZG31iFI/AAAAAAAACK0/y_YmXqpsHzo0XA_vxOB1VUWelc2xj3eoACKgB/s72-c/IMG_3190-S.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-5690791269531428478

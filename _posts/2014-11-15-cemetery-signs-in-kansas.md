@@ -1,11 +1,10 @@
 ---
-
 title: Cemetery Signs in Kansas
-date: '2014-11-15T11:40:00.000-08:00'
-author: Doug Clouse
+date: 2014-11-15 14:40:00 -05:00
 tags:
 - typography
 - travel
+author: Doug Clouse
 modified_time: '2016-07-02T10:40:27.714-07:00'
 thumbnail: https://2.bp.blogspot.com/-xq7-McZxuXM/VGeryZUg8GI/AAAAAAAAB4g/57wBm14Vyqk/s72-c/ARGONIA%2BCEMETERY-SIGNsm.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-2431237105193422667

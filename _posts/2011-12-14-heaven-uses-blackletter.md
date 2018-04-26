@@ -1,12 +1,11 @@
 ---
-
 title: Heaven Uses Blackletter
-date: '2011-12-14T17:52:00.000-08:00'
-author: Doug Clouse
+date: 2011-12-14 20:52:00 -05:00
 tags:
 - typography
 - design
 - New York City
+author: Doug Clouse
 modified_time: '2012-05-15T16:24:25.804-07:00'
 thumbnail: http://2.bp.blogspot.com/-Hl8efgNc6RA/TulUN6zbKrI/AAAAAAAAA58/WZ37eU-x4Lw/s72-c/Divine_Lift_400.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-8151318110029423161

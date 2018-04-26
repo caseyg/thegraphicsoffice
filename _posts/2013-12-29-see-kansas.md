@@ -1,11 +1,10 @@
 ---
-
 title: See Kansas
-date: '2013-12-28T22:35:00.001-08:00'
-author: Doug Clouse
+date: 2013-12-29 01:35:00.001000000 -05:00
 tags:
 - history
 - travel
+author: Doug Clouse
 modified_time: '2014-03-23T10:19:45.596-07:00'
 thumbnail: http://3.bp.blogspot.com/-E0bADU-L8eY/Ur-xp3UeUCI/AAAAAAAABo0/8DwmD-BMRMs/s72-c/embossers.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-7766919255740502570

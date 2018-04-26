@@ -1,9 +1,7 @@
 ---
-
 title: Islands in the Stream
-date: '2011-12-18T21:44:00.000-08:00'
+date: 2011-12-19 00:44:00 -05:00
 author: Doug Clouse
-tags: 
 modified_time: '2015-05-03T12:52:43.548-07:00'
 thumbnail: http://4.bp.blogspot.com/-1vxi-4angvo/Tu7SMSlaKdI/AAAAAAAAA68/3AOtgQFZyAE/s72-c/dolly-kenny.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-1762128394767818379

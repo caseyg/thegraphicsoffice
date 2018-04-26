@@ -1,13 +1,12 @@
 ---
-
 title: The Wurst is Yet to Come
-date: '2014-03-20T20:56:00.000-07:00'
-author: Doug Clouse
+date: 2014-03-20 23:56:00 -04:00
 tags:
 - printing
 - typography
 - design
 - history
+author: Doug Clouse
 modified_time: '2014-03-23T10:21:44.821-07:00'
 thumbnail: http://2.bp.blogspot.com/-zoWmVNGYOmQ/Uyuzy82SPyI/AAAAAAAABuU/5hA66wTLTJk/s72-c/5+CENT+SALE.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-8110017588315467155
