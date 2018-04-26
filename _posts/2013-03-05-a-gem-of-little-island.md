@@ -1,11 +1,10 @@
 ---
-
 title: '"A Gem of a Little Island"'
-date: '2013-03-05T15:04:00.001-08:00'
-author: Doug Clouse
+date: 2013-03-05 18:04:00.001000000 -05:00
 tags:
 - family
 - travel
+author: Doug Clouse
 modified_time: '2015-08-20T12:08:08.480-07:00'
 thumbnail: http://1.bp.blogspot.com/-s42BsuIcqlY/UQzIal8yQHI/AAAAAAAABOc/p3LSMlCxvOc/s72-c/Screen+Shot+2013-02-01+at+11.08.24+PM.png
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-1938457500204742047

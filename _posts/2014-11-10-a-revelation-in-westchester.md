@@ -1,10 +1,9 @@
 ---
-
 title: A Revelation in Westchester
-date: '2014-11-10T19:47:00.000-08:00'
-author: Doug Clouse
+date: 2014-11-10 22:47:00 -05:00
 tags:
 - typography
+author: Doug Clouse
 modified_time: '2016-07-02T10:40:41.838-07:00'
 thumbnail: https://1.bp.blogspot.com/-iKB70UqOuTA/VGGDkKi2SYI/AAAAAAAAB20/tP2nTokQ6bU/s72-c/ModernFacetedSM.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-1398990440673583315

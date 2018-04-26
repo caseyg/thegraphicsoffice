@@ -1,13 +1,12 @@
 ---
-
 title: Kansas Gravestone Lettering
-date: '2014-03-23T09:52:00.000-07:00'
-author: Doug Clouse
+date: 2014-03-23 12:52:00 -04:00
 tags:
 - printing
 - typography
 - design
 - travel
+author: Doug Clouse
 modified_time: '2015-02-02T10:53:59.058-08:00'
 thumbnail: http://2.bp.blogspot.com/-cnAKk41_Uw0/Uy8PQGrCqFI/AAAAAAAABxQ/zLumfsHSFyE/s72-c/IMG_1702sm.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-2659097807062714713

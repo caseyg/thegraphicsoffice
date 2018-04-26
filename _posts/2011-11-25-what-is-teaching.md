@@ -1,11 +1,10 @@
 ---
-
 title: What is Teaching?
-date: '2011-11-25T20:50:00.000-08:00'
-author: Doug Clouse
+date: 2011-11-25 23:50:00 -05:00
 tags:
 - design
 - teaching
+author: Doug Clouse
 modified_time: '2015-05-03T12:42:01.281-07:00'
 thumbnail: http://4.bp.blogspot.com/-EwCaw5iYH2c/TuYty5D8SwI/AAAAAAAAA5w/rzhjGQF9VUw/s72-c/slidestype.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-9181389857174053561

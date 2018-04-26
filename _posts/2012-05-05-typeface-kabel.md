@@ -1,11 +1,10 @@
 ---
-
 title: Kabel and Nostalgia
-date: '2012-05-05T09:46:00.000-07:00'
-author: Doug Clouse
+date: 2012-05-05 12:46:00 -04:00
 tags:
 - typography
 - design
+author: Doug Clouse
 modified_time: '2012-05-15T16:46:37.043-07:00'
 thumbnail: http://2.bp.blogspot.com/-E9e3u8kWyjU/T7F453N3wpI/AAAAAAAABA8/aJUoNIdt4wk/s72-c/Germany2012Final.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-4168887670175541569

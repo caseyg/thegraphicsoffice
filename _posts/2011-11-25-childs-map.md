@@ -1,11 +1,10 @@
 ---
-
 title: Childhood Cartography
-date: '2011-11-24T21:18:00.000-08:00'
-author: Doug Clouse
+date: 2011-11-25 00:18:00 -05:00
 tags:
 - design
 - travel
+author: Doug Clouse
 modified_time: '2012-05-14T16:48:51.260-07:00'
 thumbnail: http://4.bp.blogspot.com/-pVqyrLc77lE/Tt2O5B2k33I/AAAAAAAAA4k/llZnXIvEkf8/s72-c/mapentireFLATdetail.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-999583656818575682

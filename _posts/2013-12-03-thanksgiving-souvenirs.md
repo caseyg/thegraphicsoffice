@@ -1,10 +1,9 @@
 ---
-
 title: Thanksgiving Souvenirs
-date: '2013-12-02T21:52:00.000-08:00'
-author: Doug Clouse
+date: 2013-12-03 00:52:00 -05:00
 tags:
 - photography
+author: Doug Clouse
 modified_time: '2013-12-03T12:02:43.481-08:00'
 thumbnail: http://4.bp.blogspot.com/-784AQ47GZaQ/Up1nny-uVFI/AAAAAAAABlE/buuiIh7-ncY/s72-c/DadFeet.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-1293786391618559993

@@ -1,10 +1,9 @@
 ---
-
 title: 'In Progress: Products'
-date: '2013-08-02T11:34:00.002-07:00'
-author: Doug Clouse
+date: 2013-08-02 14:34:00.002000000 -04:00
 tags:
 - design
+author: Doug Clouse
 modified_time: '2014-01-16T15:36:39.087-08:00'
 thumbnail: http://3.bp.blogspot.com/-nkCWDYgcXdY/Uf74njbqeyI/AAAAAAAABfQ/ZDE9VxJwX2k/s72-c/AlbumPage.JPG
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-6404310323261126047

@@ -1,12 +1,11 @@
 ---
-
 title: Blackletter in Scranton
-date: '2013-05-04T08:05:00.001-07:00'
-author: Doug Clouse
+date: 2013-05-04 11:05:00.001000000 -04:00
 tags:
 - photography
 - typography
 - travel
+author: Doug Clouse
 modified_time: '2014-03-20T21:02:29.967-07:00'
 thumbnail: http://1.bp.blogspot.com/-IKh9emc9N1c/UYUpOgVWXvI/AAAAAAAABS8/JGhTtskGulg/s72-c/ScrantonTimes9a.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-702305988905078016

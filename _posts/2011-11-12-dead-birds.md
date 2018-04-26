@@ -1,11 +1,10 @@
 ---
-
 title: Dead Birds
-date: '2011-11-11T21:35:00.000-08:00'
-author: Doug Clouse
+date: 2011-11-12 00:35:00 -05:00
 tags:
 - film
 - anthropology
+author: Doug Clouse
 modified_time: '2015-05-03T12:35:48.991-07:00'
 thumbnail: http://2.bp.blogspot.com/-8RzO_NpxTnk/Tr4NajAvU_I/AAAAAAAAAzs/kbFy0bVRJVY/s72-c/dead-birds.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-7724642238936196782

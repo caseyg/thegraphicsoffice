@@ -1,10 +1,9 @@
 ---
-
 title: Now It's About Family
-date: '2015-05-03T12:50:00.000-07:00'
-author: Doug Clouse
+date: 2015-05-03 15:50:00 -04:00
 tags:
 - family
+author: Doug Clouse
 modified_time: '2016-07-02T10:40:15.551-07:00'
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-2815443696124783513
 blogger_orig_url: http://www.sandislandblog.com/2015/05/now-its-about-family.html

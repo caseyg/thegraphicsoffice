@@ -1,11 +1,10 @@
 ---
-
 title: Closet Curating
-date: '2014-01-01T16:37:00.000-08:00'
-author: Doug Clouse
+date: 2014-01-01 19:37:00 -05:00
 tags:
 - art
 - history
+author: Doug Clouse
 modified_time: '2015-05-03T12:35:00.422-07:00'
 thumbnail: http://3.bp.blogspot.com/-qgbpFvp9abc/UsSvfuqOnZI/AAAAAAAABqc/nZGIeRFWOz8/s72-c/Wichita.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-1537491238083314594

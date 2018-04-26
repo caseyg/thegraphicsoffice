@@ -1,11 +1,10 @@
 ---
-
 title: A Sturdy Son
-date: '2014-02-22T19:49:00.000-08:00'
-author: Doug Clouse
+date: 2014-02-22 22:49:00 -05:00
 tags:
 - history
 - family
+author: Doug Clouse
 modified_time: '2014-03-20T21:01:57.157-07:00'
 thumbnail: http://2.bp.blogspot.com/-vQzEKg24K1g/UwluTsHh8PI/AAAAAAAABsE/hcf1obt4-8o/s72-c/vanravenswaay.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-2555299472790548992

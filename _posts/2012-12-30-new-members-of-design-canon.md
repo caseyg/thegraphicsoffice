@@ -1,9 +1,7 @@
 ---
-
 title: New Members of the Design Canon?
-date: '2012-12-29T22:19:00.000-08:00'
+date: 2012-12-30 01:19:00 -05:00
 author: Doug Clouse
-tags: 
 modified_time: '2013-03-09T07:16:25.731-08:00'
 thumbnail: http://2.bp.blogspot.com/-0QuHuQ6Kmus/UN_Doj1N2-I/AAAAAAAABMw/s-ucm8ugmog/s72-c/Bullseye.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-8080462653024318517

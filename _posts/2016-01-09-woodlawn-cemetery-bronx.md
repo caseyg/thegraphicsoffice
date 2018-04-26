@@ -1,12 +1,11 @@
 ---
-
 title: Woodlawn Cemetery, The Bronx
-date: '2016-01-09T18:19:00.005-08:00'
-author: Doug Clouse
+date: 2016-01-09 21:19:00.005000000 -05:00
 tags:
 - typography
 - history
 - New York City
+author: Doug Clouse
 modified_time: '2016-07-02T10:39:32.837-07:00'
 thumbnail: https://4.bp.blogspot.com/-c1CPaSg0qk4/VpG_s__ZF4I/AAAAAAAACBg/3gn3zK3pnpQ/s72-c/TEMPLEsm.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-8581975990333308581

@@ -1,13 +1,12 @@
 ---
-
 title: 'What is a Type Organization for? '
-date: '2016-07-02T10:04:00.005-07:00'
-author: Doug Clouse
+date: 2016-07-02 13:04:00.005000000 -04:00
 tags:
 - printing
 - typography
 - history
 - New York City
+author: Doug Clouse
 modified_time: '2016-07-02T10:43:40.278-07:00'
 thumbnail: https://2.bp.blogspot.com/-5yp-yzRRgHQ/V3ftobGWVZI/AAAAAAAACL0/7v6BYa-WZ7MRChOrbdDvS1gnBhu0hTZIgCKgB/s72-c/printershomelarge.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-7575356685547143244

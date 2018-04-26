@@ -1,12 +1,11 @@
 ---
-
 title: Wood Type in the 1970s
-date: '2013-07-27T18:45:00.001-07:00'
-author: Doug Clouse
+date: 2013-07-27 21:45:00.001000000 -04:00
 tags:
 - printing
 - typography
 - design
+author: Doug Clouse
 modified_time: '2013-12-08T09:45:39.223-08:00'
 thumbnail: http://4.bp.blogspot.com/-85vtQuI4pEk/UfR2ztMQP5I/AAAAAAAABZk/T8fJMX2V7AU/s72-c/hamposterSM.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-3906620105787055920

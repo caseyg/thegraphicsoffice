@@ -1,11 +1,10 @@
 ---
-
 title: Two Days on the Trunk Road
-date: '2011-11-21T19:35:00.000-08:00'
-author: Doug Clouse
+date: 2011-11-21 22:35:00 -05:00
 tags:
 - anthropology
 - travel
+author: Doug Clouse
 modified_time: '2011-11-22T16:47:35.590-08:00'
 thumbnail: http://1.bp.blogspot.com/-ydx4gnT0MVw/TssvzLRD-9I/AAAAAAAAA2k/azU2-7OI-go/s72-c/2911and1.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-3116038712990520890

@@ -1,10 +1,9 @@
 ---
-
 title: Within Memory
-date: '2013-08-17T20:54:00.003-07:00'
-author: Doug Clouse
+date: 2013-08-17 23:54:00.003000000 -04:00
 tags:
 - history
+author: Doug Clouse
 modified_time: '2014-08-11T20:05:13.194-07:00'
 thumbnail: http://3.bp.blogspot.com/-Ifg2AyI9Gkc/UhBD-UoknMI/AAAAAAAABg0/ilW9c_yoDb8/s72-c/BauerCoverW.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-555487356778030704

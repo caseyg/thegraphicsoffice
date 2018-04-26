@@ -1,12 +1,11 @@
 ---
-
 title: Attack of the Design Historians
-date: '2015-05-03T12:49:00.000-07:00'
-author: Doug Clouse
+date: 2015-05-03 15:49:00 -04:00
 tags:
 - typography
 - design
 - history
+author: Doug Clouse
 modified_time: '2016-07-02T10:39:45.036-07:00'
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-4339791404977088144
 blogger_orig_url: http://www.sandislandblog.com/2015/05/attack-of-design-historians.html

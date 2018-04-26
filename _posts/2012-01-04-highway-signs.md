@@ -1,11 +1,10 @@
 ---
-
 title: Highway Signs
-date: '2012-01-03T21:52:00.001-08:00'
-author: Doug Clouse
+date: 2012-01-04 00:52:00.001000000 -05:00
 tags:
 - typography
 - design
+author: Doug Clouse
 modified_time: '2012-01-04T16:03:09.514-08:00'
 thumbnail: http://4.bp.blogspot.com/-8EI7PAmuspU/TwPmrR8B8TI/AAAAAAAAA9U/RdEuOchFjek/s72-c/red-roof-inn.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-2799549836897461

@@ -1,13 +1,12 @@
 ---
-
 title: I Was Like So Scared
-date: '2014-11-21T10:16:00.001-08:00'
-author: Doug Clouse
+date: 2014-11-21 13:16:00.001000000 -05:00
 tags:
 - printing
 - art
 - typography
 - design
+author: Doug Clouse
 modified_time: '2017-01-03T14:33:59.184-08:00'
 thumbnail: https://4.bp.blogspot.com/-W2LHte4X19w/VG9_EpVqp4I/AAAAAAAAB6Q/YWHsLWOWLh0/s72-c/GROUP-sm.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-7743514835907385502

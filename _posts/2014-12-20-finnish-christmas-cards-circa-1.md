@@ -1,11 +1,10 @@
 ---
-
 title: Finnish Christmas cards
-date: '2014-12-20T10:05:00.004-08:00'
-author: Doug Clouse
+date: 2014-12-20 13:05:00.004000000 -05:00
 tags:
 - printing
 - design
+author: Doug Clouse
 modified_time: '2016-07-02T10:39:54.950-07:00'
 thumbnail: https://1.bp.blogspot.com/-EZ3lpRltOg0/VJW8n5xsEOI/AAAAAAAAB-w/4MBLb4W2Pbo/s72-c/Finn2sm.jpg
 blogger_id: tag:blogger.com,1999:blog-2136690105351118519.post-918202492243746397
