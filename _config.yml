@@ -46,7 +46,7 @@ defaults:
     type: posts
   values:
     layout: page
-footer-image: 
+footer-image: "/uploads/contact-background11.jpg"
 email: hello@thegraphicsoffice.com
 description: The Graphics Office designs for exhibitions and print. We give visual
   and verbal form to an idea, a notion, a sensibility, a group of facts. Design is
