@@ -13,7 +13,6 @@
 .logo {
   line-height: .9!important;
   display: inline-block;
-<<<<<<< HEAD
 }
 
 nav {
@@ -33,27 +32,6 @@ nav {
   }
 }
 
-=======
-}
-
-nav {
-  line-height: 1!important;
-}
-
-@media(min-width:768px){
-  #home .nav--top__items {
-    position: absolute;
-    top: 76px;
-    left: 7.5em;
-  }
-  .nav--top__items {
-    position: absolute;
-      top: 44px;
-      left: 4em;
-  }
-}
-
->>>>>>> master
 .typer {
   font-style: italic;
   display: block;
@@ -130,35 +108,21 @@ img {
   font-weight: 900;
 }
 
-
-.carousel {
-  background: #FAFAFA;
-}
-
 .carousel-cell {
-  width: 90%;
-  margin-right: 10px;
-
+  width: 100%;
 }
 
 .carousel-nav .carousel-cell {
   cursor: pointer;
 }
 
-.carousel-nav .carousel-cell .carousel-cell__content {
-  display: none;
-}
-
-.carousel-nav .carousel-cell.is-nav-selected .carousel-cell__content {
-  display: block;
-}
-
-.carousel-nav .carousel-cell.is-nav-selected h3 {
+#casestudies h3 {
   font-weight: 700;
 }
 
 .carousel-cell img {
   width: 100%;
+  height: auto;
 }
 
 .card, .card-img {

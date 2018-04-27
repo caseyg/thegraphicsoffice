@@ -50,12 +50,14 @@ layout: default
     <div class="carousel-container row">
       <div class="carousel carousel-main col-md-9 mb-4">
         {% for case-study in site.case-study %}
-          <div class="carousel-cell"><a href="{{ case-study.url }}"><img src="{% if case-study.header-image %}{{ case-study.header-image }}{% else %}http://placehold.it/1000x600?text={{ case-study.title }}{% endif %}" alt="{{ case-study.title }}"></a></div>
+          {% for image in case-study.slideshow-images %}
+            <div class="carousel-cell"><img src="{{ image }}"></div>
+          {% endfor %}
         {% endfor %}
       </div>
-      <div class="carousel-nav col-md-3">
+      <div class="col-md-3">
         {% for case-study in site.case-study %}
-          <div class="carousel-cell {% if forloop.first %}is-nav-selected{% endif %}">
+          <div>
             <h3>{{ case-study.title }}</h3>
             <div class="carousel-cell__content">
               {% if case-study.description %}{{ case-study.description | markdownify }}{% endif %}
@@ -111,38 +113,12 @@ layout: default
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 <script type="text/javascript">
-// external js: flickity.pkgd.js
-
 var $carousel = $('.carousel').flickity({
-  pageDots: false,
+  imagesLoaded: true,
+  pageDots: true,
   wrapAround: true,
-  autoPlay: true
-});
-
-var $carouselNav = $('.carousel-nav');
-var $carouselNavCells = $carouselNav.find('.carousel-cell');
-
-$carouselNav.on( 'click', '.carousel-cell', function( event ) {
-  var index = $( event.currentTarget ).index();
-  $carousel.flickity( 'select', index );
-});
-
-var flkty = $carousel.data('flickity');
-var navTop  = $carouselNav.position().top;
-var navCellHeight = $carouselNavCells.height();
-var navHeight = $carouselNav.height();
-
-$carousel.on( 'select.flickity', function() {
-  // set selected nav cell
-  $carouselNav.find('.is-nav-selected').removeClass('is-nav-selected');
-  var $selected = $carouselNavCells.eq( flkty.selectedIndex )
-    .addClass('is-nav-selected');
-  // scroll nav
-  var scrollY = $selected.position().top +
-    $carouselNav.scrollTop() - ( navHeight + navCellHeight ) / 2;
-  $carouselNav.animate({
-    scrollTop: scrollY
-  });
+  prevNextButtons: false,
+  autoPlay: false
 });
 </script>
 <script src="https://cdn.jsdelivr.net/npm/typeit/dist/typeit.min.js"></script>
