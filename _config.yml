@@ -46,7 +46,7 @@ defaults:
     type: posts
   values:
     layout: page
-email: desk@thegraphicsoffice.com
+email: hello@thegraphicsoffice.com
 description: 'TKTKTK '
 baseurl: 
 url: 
