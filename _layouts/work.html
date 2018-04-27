@@ -35,7 +35,12 @@ layout: default
         {% for work in site.work %}
           <div class="col-md-4 card p-3 text-center sans {% for role in work.roles %} {{ role | slugify | lowercase }}{% endfor %} {% if work.featured %}featured{% endif %} {% for category in work.categories %} {{ category | lowercase | slugify }}{% endfor %} {% for client in work.client %} {{ client | lowercase | slugify }}{% endfor %} {% for category in work.categories %} {{ category | lowercase | slugify }}{% endfor %}">
             <a href="{{ work.url }}" style="background-image:url({{ work.thumb }});">
-              <h5 class="card-title"><strong>{{ work.title }}</strong></h5>
+              <div class="card-title">
+                <h5><strong>{{ work.title }}</strong></h5>
+                {% for role in work.roles limit:1 %}
+                  <small>{{ role }}</small>
+                {% endfor %}
+              </div>
             </a>
           </div>
         {% endfor %}
