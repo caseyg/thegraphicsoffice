@@ -26,7 +26,7 @@ layout: default
     <div class="row">
       <div class="col col-md-3">
         <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Client</strong></h2>
-        <p>{{ page.client }}</p>
+        <p><a href="/work/#filter=.{{ page.client | lowercase | slugify }}">{{ page.client }}</a></p>
       </div>
       <div class="col col-md-3">
         <h2 style="text-transform:uppercase;letter-spacing:1px;" class="pt-2"><strong>Services</strong></h2>
