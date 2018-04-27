@@ -1,5 +1,7 @@
 ---
 title: Shelley’s Ghost
+categories:
+- Museum/Library
 thumb: "/uploads/001Shelley-thumb21B-340x242.jpg"
 client: New York Public Library
 roles:
@@ -25,7 +27,7 @@ sections:
 - image: "/uploads/004Shelley.jpg"
   layout: center
 - image: "/uploads/005Shelley.jpg"
-  image_caption: ''
+  image_caption: 
   layout: full
   text: The window installation incorporated an early 19th-century watercolor view
     of Lake Geneva which was back-lit and framed by period styled velvet drapery.
@@ -44,7 +46,7 @@ sections:
     by drowning.
   layout: center
 - image: "/uploads/010Shelley.jpg"
-  image_caption: ''
+  image_caption: 
   layout: full
 ---
 
