@@ -28,6 +28,7 @@ layout: default
           <div class="media-body">
             <a href="{{ post.url }}">
               <h5 class="mt-0 mb-1">{{ post.title }}</h5>
+              <small class="sans">{{ post.date | date: "%-d %B %Y" }} &bull; {{ post.author }}</small><br>
               {{ post.excerpt | strip_html | truncate: 140 }}
             </a>
           </div>

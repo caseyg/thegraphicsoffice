@@ -12,13 +12,14 @@ layout: default
     </div>
   </div>
   <div class="row">
-    <section id="essays" class="col-6">
+    <section id="essays" class="col-md-6">
       <ul class="list-unstyled">
         {% for post in site.posts %}
         <li class="media mb-3">
           <div class="media-body">
             <a href="{{ post.url }}">
               <h5 class="mt-0 mb-1">{{ post.title }}</h5>
+              <small class="sans">{{ post.date | date: "%-d %B %Y" }} &bull; {{ post.author }}</small><br>
               {{ post.excerpt | strip_html | truncate: 140 }}
             </a>
           </div>
