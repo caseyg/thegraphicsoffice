@@ -60,7 +60,7 @@ layout: default
           <div>
             <h3>{{ case-study.title }}</h3>
             <div class="carousel-cell__content">
-              {% if case-study.description %}{{ case-study.description | markdownify }}{% endif %}
+              {% if case-study.short-description %}{{ case-study.short-description | markdownify }}{% endif %}
               <small><a href="{{ case-study.url }}">Read more &rarr;</a></small>
             </div>
             {% if forloop.last == false %}<hr>{% endif %}
