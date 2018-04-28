@@ -22,18 +22,24 @@ layout: default
   <div class="row">
     <div class="col-12 col-md-3 mt-3">
       <section class="services sans">
-        <a href="/work/#filter=.graphic-design" class="font-weight-bold">Browse by services →</a>
         <hr>
-        <a href="/work/#filter=.museum-library" class="font-weight-bold">Browse by category →</a>
+        <a href="/work/#filter=.graphic-design" class="font-weight-bold">Browse by services&nbsp;→</a>
+        <hr>
+        <a href="/work/#filter=.museum-library" class="font-weight-bold">Browse by category&nbsp;→</a>
+        <hr class="hidden-md-up">
       </section>
     </div>
     {% for work in site.work limit:3 %}
-    <div class="col-3">
-      <a href="{{ work.url }}">
-        <img src="{% if work.thumb %}{{ work.thumb }}{% else %}http://placehold.it/350x250?text={{ work.title }}{% endif %}" alt="{{ work.title }}">
-        {{ work.title }}
-      </a>
-    </div>
+      <div class="col-4 col-md-3 card card--work p-3 text-center sans">
+        <a href="{{ work.url }}" style="background-image:url({{ work.thumb }});">
+          <div class="card-title">
+            <h5><strong>{{ work.title }}</strong></h5>
+            {% for role in work.roles limit:1 %}
+              <small>{{ role }}</small>
+            {% endfor %}
+          </div>
+        </a>
+      </div>
     {% endfor %}
   </div>
 </section>
@@ -47,15 +53,15 @@ layout: default
         <h2 class="col">Case Studies</h2>
       </div>
     </div>
-    <div class="carousel-container row">
-      <div class="carousel carousel-main col-md-9 mb-4">
+    <div class="carousel-container row mb-4 pb-4">
+      <div class="carousel carousel-main col-lg-9 mb-4">
         {% for case-study in site.case-study %}
           {% for image in case-study.slideshow-images %}
             <div class="carousel-cell"><img src="{{ image }}"></div>
           {% endfor %}
         {% endfor %}
       </div>
-      <div class="col-md-3">
+      <div class="col-lg-3">
         {% for case-study in site.case-study %}
           <div>
             <h3>{{ case-study.title }}</h3>
@@ -63,7 +69,7 @@ layout: default
               {% if case-study.short-description %}{{ case-study.short-description | markdownify }}{% endif %}
               <small><a href="{{ case-study.url }}">Read more &rarr;</a></small>
             </div>
-            {% if forloop.last == false %}<hr>{% endif %}
+            <hr>
           </div>
         {% endfor %}
       </div>
@@ -75,22 +81,31 @@ layout: default
 <section id="research" class="my-4">
   <h2><a href="/research">Our Research &rarr;</a></h2>
   <div class="row">
-    <div class="col-sm-6 mb-4">
-      <div class="card bg-dark text-white">
-        <img class="card-img" src="/uploads/coopertype-blue.jpg">
-        <a class="card-img-overlay" href="/research">
-          <h5 class="card-title">Speaking and Writing</h5>
-        </a>
-      </div>
-    </div>
-    <div class="col-sm-6 mb-4">
-      <div class="card bg-dark text-white">
-        <img class="card-img" src="http://placehold.it/600x400" alt="Card image">
-        <a class="card-img-overlay" href="/research">
-          <h5 class="card-title">Blog</h5>
-        </a>
-      </div>
-    </div>
+    <section id="talks" class="col-md-6 col-lg-6">
+      {% assign talks = site.research | where: "categories","talks" %}
+      {% for talk in talks limit:1 %}
+      <a href="{{ talk.url }}">
+        <img src="{{ talk.image }}" alt="">
+        <p class="mt-2">{{ talk.title }}</p>
+      </a>
+      {% endfor %}
+    </section>
+    <section id="essays" class="col-md-6 col-lg-6">
+      <h2><a href="/research/blog/">Essays &amp; Articles &rarr;</a></h2>
+      <ul class="list-unstyled">
+        {% for post in site.posts limit:3 %}
+        <li class="media mb-3">
+          <div class="media-body">
+            <a href="{{ post.url }}">
+              <h5 class="mt-0 mb-1">{{ post.title }}</h5>
+              <small class="sans">{{ post.date | date: "%-d %B %Y" }} &bull; {{ post.author }}</small><br>
+              {{ post.excerpt | strip_html | truncate: 140 }}
+            </a>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
   </div>
 </section>
 
