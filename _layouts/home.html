@@ -79,9 +79,9 @@ layout: default
 
 <div class="container">
 <section id="research" class="my-4">
-  <h2><a href="/research">Our Research &rarr;</a></h2>
   <div class="row">
     <section id="talks" class="col-md-6 col-lg-6">
+      <h2><a href="/research">Our Research &rarr;</a></h2>
       {% assign talks = site.research | where: "categories","talks" %}
       {% for talk in talks limit:1 %}
       <a href="{{ talk.url }}">
