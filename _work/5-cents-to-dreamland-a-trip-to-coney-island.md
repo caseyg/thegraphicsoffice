@@ -9,6 +9,7 @@ roles:
 - editorial research
 featured: true
 sections:
+- image: "/uploads/coney%20logo2.jpg"
 - image: "/uploads/p7111286.jpg"
 - image: "/uploads/p7111630.jpg"
 - image: "/uploads/p7111502.jpg"
