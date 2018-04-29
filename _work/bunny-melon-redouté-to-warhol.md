@@ -1,5 +1,5 @@
 ---
-title: 'Bunny Melon: Redouté to Warhol'
+title: 'Redouté to Warhol: Bunny Melon''s Botanical Art'
 thumb: "/uploads/screen-shot-2018-04-12-at-3.11.52-pm.png"
 client: New York Botanical Garden
 roles:
