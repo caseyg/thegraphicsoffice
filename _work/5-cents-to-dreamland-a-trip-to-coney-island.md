@@ -18,4 +18,4 @@ sections:
   layout: left
 ---
 
-This exhibition highlighted transportation’s impact on the development of the famed Peoples Playground, and was installed in the Museum’s permanent space in Downtown Brooklyn. We designed the large map, researched images for several of the large murals, and even found a couple pertinent quotes to feature. The typographic identity for the show was based on hand painted signage and old tickets.
+This exhibition highlighted transportation’s impact on the development of the famed Peoples Playground, and was installed in the Museum’s permanent space in Downtown Brooklyn. We designed the large map, researched images for several of the murals, and even found a couple pertinent quotes to feature. The typographic identity for the show was based on hand painted signage and old tickets.
