@@ -7,7 +7,7 @@ roles:
 - Book Design
 featured: true
 sections:
-- image: "/uploads/Bunny-Melon-NYBG_Garden-Collage_Andreana-Bitsis-1000x662.jpg"
+- image: "/uploads/Bunny%20wall%20web-0ebab0.jpg"
   image_caption: 
   text: 
 - image: "/uploads/Bunny-Melon-NYBG_Garden-Collage_Andreana-Bitsis-18-1000x662.jpg"
