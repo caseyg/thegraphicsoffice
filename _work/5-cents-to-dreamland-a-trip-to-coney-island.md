@@ -1,5 +1,6 @@
 ---
 title: '5 Cents to Dreamland: A Trip to Coney Island'
+published: false
 thumb: "/uploads/coney-logo2.jpg"
 client: New York Transit Museum
 roles:
